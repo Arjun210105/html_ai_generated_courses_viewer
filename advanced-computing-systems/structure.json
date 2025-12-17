@@ -1,0 +1,141 @@
+{
+  "courseId": "advanced-computing-systems",
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "Advanced Video Editing Workflows",
+      "order": 1,
+      "topics": [
+        { "id": "audio-editing-integration", "title": "External Audio Editing Integration" },
+        { "id": "social-media-editing", "title": "Editing for Social Media Formats" },
+        { "id": "project-xml-management", "title": "Managing Large Projects with XML" },
+        { "id": "rendering-troubleshooting", "title": "Rendering and Codec Troubleshooting" },
+        { "id": "gif-exports", "title": "Animated GIF Creation" },
+        { "id": "pip-effects", "title": "Picture-in-Picture Effects" },
+        { "id": "timeline-markers", "title": "Markers and Timeline Navigation" },
+        { "id": "color-grading", "title": "Advanced Color Grading" },
+        { "id": "batch-export", "title": "Batch Exporting" },
+        { "id": "export-optimization", "title": "Export Optimization for Platforms" }
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "title": "Computer Networks and Infrastructure",
+      "order": 2,
+      "topics": [
+        { "id": "network-segmentation", "title": "Network Segmentation and Security" },
+        { "id": "website-blocking", "title": "Website Blocking and Access Control" },
+        { "id": "network-topologies", "title": "Network Topologies" },
+        { "id": "web-access-process", "title": "Website Access Workflow" },
+        { "id": "load-balancing", "title": "Load Balancing Techniques" },
+        { "id": "ipv6-transition", "title": "IPv4 to IPv6 Transition" },
+        { "id": "security-vs-access", "title": "Security and Accessibility Balance" },
+        { "id": "fault-tolerance", "title": "Fault Tolerance and Recovery" },
+        { "id": "edge-computing", "title": "Edge Computing Architectures" },
+        { "id": "network-hierarchy", "title": "Hierarchical Network Models" }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "title": "Algorithms, Graphics, and Simulation",
+      "order": 3,
+      "topics": [
+        { "id": "animation-systems", "title": "Timeline-Based Animation Systems" },
+        { "id": "fractal-generation", "title": "Recursive Fractal Generation" },
+        { "id": "game-engines", "title": "Turtle-Based Game Engines" },
+        { "id": "particle-systems", "title": "Particle Systems with Physics" },
+        { "id": "mathematical-patterns", "title": "Mathematical Pattern Visualization" },
+        { "id": "maze-algorithms", "title": "Maze Generation and Pathfinding" },
+        { "id": "drawing-programs", "title": "Interactive Drawing Programs" },
+        { "id": "physics-animation", "title": "Physics-Based Animations" },
+        { "id": "math-visualization", "title": "Mathematical Visualization Systems" },
+        { "id": "time-systems", "title": "Time-Based Simulations" }
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "title": "Programming Logic and System Design",
+      "order": 4,
+      "topics": [
+        { "id": "sorting-algorithms", "title": "Advanced Sorting Algorithms" },
+        { "id": "custom-iterators", "title": "Custom Iterators" },
+        { "id": "data-pipelines", "title": "Memory-Efficient Data Pipelines" },
+        { "id": "game-logic", "title": "Complex Game Logic Systems" },
+        { "id": "transaction-systems", "title": "Transaction Management Systems" },
+        { "id": "backtracking", "title": "Backtracking Algorithms" },
+        { "id": "state-machines", "title": "State Machine Design" },
+        { "id": "caching-systems", "title": "Custom Caching Systems" },
+        { "id": "event-handling", "title": "Event Handling Architectures" },
+        { "id": "recursive-optimization", "title": "Recursive Pattern Optimization" }
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "title": "CSS and Modern Web Design",
+      "order": 5,
+      "topics": [
+        { "id": "css-positioning", "title": "CSS Positioning Models" },
+        { "id": "box-model", "title": "CSS Box Model" },
+        { "id": "transforms-transitions", "title": "Transforms and Transitions" },
+        { "id": "selectors-specificity", "title": "Selectors and Specificity" },
+        { "id": "responsive-design", "title": "Responsive Design Principles" },
+        { "id": "semantic-html", "title": "Semantic HTML and Styling" },
+        { "id": "css-architecture", "title": "Scalable CSS Architectures" },
+        { "id": "css-cascade", "title": "CSS Cascade" },
+        { "id": "inheritance", "title": "Inheritance in CSS" },
+        { "id": "preprocessors", "title": "CSS Preprocessors" }
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "title": "Natural Language Processing and Ethical AI",
+      "order": 6,
+      "topics": [
+        { "id": "bias-mitigation", "title": "Bias Detection and Mitigation" },
+        { "id": "multilingual-nlp", "title": "Multilingual NLP and Code-Switching" },
+        { "id": "safe-ai", "title": "Safe AI-Human Interaction" },
+        { "id": "context-awareness", "title": "Context Awareness in AI" },
+        { "id": "language-evolution", "title": "Language Evolution Handling" },
+        { "id": "ambiguity-resolution", "title": "Ambiguity Resolution" },
+        { "id": "real-time-nlp", "title": "Real-Time NLP Processing" },
+        { "id": "ai-communication-ethics", "title": "Ethics of AI Communication" },
+        { "id": "emotion-detection", "title": "Cultural Emotion Detection" },
+        { "id": "personality-consistency", "title": "Chatbot Personality Consistency" }
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "title": "Data Science Foundations",
+      "order": 7,
+      "topics": [
+        { "id": "data-science-foundations", "title": "Interdisciplinary Foundations" },
+        { "id": "big-data-volume", "title": "Big Data Challenges" },
+        { "id": "mixed-data-types", "title": "Interaction of Data Types" },
+        { "id": "data-collection", "title": "Data Collection and Validity" },
+        { "id": "data-cleaning", "title": "Data Cleaning Processes" },
+        { "id": "variable-selection", "title": "Variable Selection" },
+        { "id": "data-structure", "title": "Data Structure and Analysis" },
+        { "id": "data-integration", "title": "Multi-Source Data Integration" },
+        { "id": "source-validation", "title": "Data Source Validation" },
+        { "id": "systematic-research", "title": "Systematic Research Approaches" }
+      ]
+    },
+    {
+      "id": "chapter-8",
+      "title": "Applied Data Science Systems",
+      "order": 8,
+      "topics": [
+        { "id": "predictive-maintenance", "title": "Predictive Maintenance Systems" },
+        { "id": "personalized-learning", "title": "Personalized Learning Systems" },
+        { "id": "customer-churn", "title": "Customer Churn Analysis" },
+        { "id": "supply-chain", "title": "Supply Chain Optimization" },
+        { "id": "environmental-monitoring", "title": "Environmental Monitoring Systems" },
+        { "id": "financial-risk", "title": "Financial Risk Assessment" },
+        { "id": "smart-traffic", "title": "Smart Traffic Management" },
+        { "id": "content-moderation", "title": "Content Moderation Systems" },
+        { "id": "energy-distribution", "title": "Energy Distribution Optimization" },
+        { "id": "health-monitoring", "title": "Real-Time Health Monitoring" }
+      ]
+    }
+  ]
+}
