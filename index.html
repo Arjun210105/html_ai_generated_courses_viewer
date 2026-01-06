@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Online Course Viewer</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <style>
         * {
             margin: 0;
@@ -36,6 +37,16 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+        }
+
+        .header-right {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .language-switcher {
+            margin-left: 15px;
         }
 
         .logo {
@@ -350,8 +361,21 @@
             .search-container {
                 width: 200px;
             }
+            
+            .language-switcher {
+                display: none; /* Hide language switcher on mobile */
+            }
         }
     </style>
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement({
+                pageLanguage: 'en',
+                includedLanguages: 'en,es,fr,de,it,pt,ru,ja,ko,zh-CN,ar,hi',
+                layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+            }, 'google_translate_element');
+        }
+    </script>
 </head>
 <body>
     <div class="container">
@@ -361,13 +385,17 @@
                 <span>CourseMaster Pro</span>
             </div>
             
-            <button class="mobile-menu-btn" id="mobileMenuBtn">
-                <i class="fas fa-bars"></i>
-            </button>
-            
-            <div class="search-container">
-                <i class="fas fa-search search-icon"></i>
-                <input type="text" id="searchInput" placeholder="Search course content...">
+            <div class="header-right">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="text" id="searchInput" placeholder="Search course content...">
+                </div>
+                
+                <div id="google_translate_element" class="language-switcher"></div>
+                
+                <button class="mobile-menu-btn" id="mobileMenuBtn">
+                    <i class="fas fa-bars"></i>
+                </button>
             </div>
         </header>
 
