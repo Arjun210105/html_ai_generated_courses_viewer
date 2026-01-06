@@ -1,0 +1,43 @@
+{
+  "id": "chapter-4-gk",
+  "title": "General Knowledge Quest 🌍✨",
+  "description": "An exciting treasure hunt of amazing facts about space, our body, the world, India, famous heroes, and super-speedy animals! Perfect for Class 3/4 explorers.",
+  "subtopics": [
+    {
+      "id": "solar-system",
+      "title": "Space Adventure: Our Solar System 🪐",
+      "content": "## Welcome to Our Cosmic Neighborhood! 🚀\n\nOur Solar System has **8 planets** all orbiting (going around) the Sun. Let's meet some special members:\n\n### 🌟 The Star of the Show:\n- **The Sun**: Not a planet, but a HUGE star! It gives us light, heat, and energy for life.\n- Fun fact: It **always rises in the East** and sets in the West.\n\n### 🪐 Planet Superlatives:\n- **Biggest Planet**: **Jupiter** – So big that 1,300 Earths could fit inside it!\n- **Red Planet**: **Mars** – Called 'red' because its soil has rusty iron (like a bicycle left in rain!).\n- **Blue Planet**: **Earth** – Our home, looks blue from space because of oceans!\n- **Hottest Planet**: **Venus** – Even hotter than Mercury!\n\n### 🧠 Remember Trick:\n**My Very Educated Mother Just Served Us Noodles**  \n(Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune)",
+      "codeExample": "### 🎯 Quick Quiz:\n1. How many planets orbit our Sun? → ______\n2. Which is the largest planet? → ______\n3. Why is Mars called the Red Planet? → Because its soil looks ______.\n4. Where does the Sun rise every morning? → The ______\n\n### 🎨 Draw & Color:\nDraw the Sun in the center. Circle it with 8 colorful planets. Label Earth and Mars!"
+    },
+    {
+      "id": "science-facts",
+      "title": "Cool Science Facts 🔬",
+      "content": "## Amazing Things Around Us!\n\n### ❤️ Inside Your Body:\n- **Heart**: A hard-working pump that sends **blood** to every part of your body, non-stop!\n- Put your hand on your chest – feel that thump-thump? That's your heart beating!\n\n### 🌱 Plant Magic:\n- **Photosynthesis**: How plants make their own food using sunlight, water, and air.\n- They give us **oxygen** to breathe – we give them **carbon dioxide** – a perfect trade!\n- **Roots**: Like straws that drink water and food from the soil.\n\n### ❄️ Water Wonder:\n- Water freezes into ice at **0°C** (that's 32°F).\n- It boils and becomes steam at **100°C** (212°F).\n\n### 🐝 Busy Bees:\n- Bees collect **pollen** (yellow powder) and **nectar** (sweet juice) from flowers.\n- They make **honey** and help flowers make seeds by carrying pollen!",
+      "codeExample": "### 🔍 True or False:\n1. Plants make food in their roots. → **False** (They make it in leaves!)\n2. Your heart pumps blood. → ______\n3. Bees collect pollen to make honey. → ______\n4. Water freezes at 100°C. → ______\n\n### 🤔 Think & Answer:\nWhy are bees important for flowers?  \n→ They help in ______________ (carrying pollen from flower to flower)."
+    },
+    {
+      "id": "geography-facts",
+      "title": "World Wonders: Geography 🌏",
+      "content": "## Fascinating Places & Creatures!\n\n### 🌏 Continent Size:\n- **Smallest Continent**: **Australia** – It's also a country!\n- **Largest Continent**: **Asia** – Where India is located.\n\n### 🐪 Desert Ship:\n- **Camel** = \"Ship of the Desert\"  \nWhy? Because it carries people and goods across hot, sandy deserts, just like ships cross oceans!\n- Special features: Humps store fat (not water!), thick eyelids protect from sand, wide feet don't sink in sand.\n\n### 🧱 Great Wall of China:\n- Built over 2,000 years ago to **protect China from enemies**.\n- So long it can be seen from space! (About 21,196 km – that's like walking across India 15 times!)\n- Made by joining many smaller walls built by different kings.",
+      "codeExample": "### 🗺️ Match the Facts:\n1. Smallest continent → a. Camel\n2. Ship of the Desert → b. Australia\n3. Visible from space → c. Great Wall of China\n\nAnswers: 1-b, 2-a, 3-c\n\n### ✏️ Complete:\nCamels have ______ to store energy, not water!  \nThe Great Wall was built for ______________."
+    },
+    {
+      "id": "india-gk",
+      "title": "Incredible India 🇮🇳",
+      "content": "## Proud Facts About Our Country!\n\n### 🦚 National Symbols:\n- **National Bird**: **Peacock** (Indian Peafowl) – Famous for its beautiful colorful tail feathers that fan out like a rainbow.\n- **National Animal**: **Royal Bengal Tiger**\n- **National Flower**: **Lotus**\n\n### 🪔 Festival of Lights:\n- **Diwali** celebrates the victory of light over darkness, good over evil.\n- People light **diyas** (clay lamps), decorate with **rangoli**, share sweets, and enjoy fireworks!\n\n### 🏏 Sports Fun:\n- A **cricket team** has **11 players** on the field.\n- Other team sizes: Football (11), Basketball (5), Kabaddi (7).",
+      "codeExample": "### 🎨 Draw & Identify:\n1. Draw our national bird with its feathers fanned.\n2. Draw a diya with flames.\n3. Write number of players in cricket: ____\n\n### 🧠 Quick Recall:\nName one thing people do during Diwali:  \n→ Light ______, make ______ (colorful patterns), eat ______."
+    },
+    {
+      "id": "famous-people-inventions",
+      "title": "Famous Heroes & Their Creations 🦸‍♂️💡",
+      "content": "## People Who Changed the World!\n\n### 📚 Storyteller:\n- **Rudyard Kipling** wrote **The Jungle Book** – stories about Mowgli, Baloo the bear, and Bagheera the panther.\n- He was born in India!\n\n### 🌕 Moon Walker:\n- **Neil Armstrong** was the **first person to walk on the Moon** (July 20, 1969).\n- His famous words: \"That's one small step for man, one giant leap for mankind.\"\n\n### 📞 Communication Revolution:\n- **Alexander Graham Bell** invented the **telephone** in 1876.\n- First words on phone: \"Mr. Watson, come here, I want to see you.\"\n\n### 🎨 Master Painter:\n- **Leonardo da Vinci** painted the **Mona Lisa** – the famous smiling lady painting in Paris.\n- He was also a scientist, inventor, and mathematician!",
+      "codeExample": "### 🔗 Match the Person to Achievement:\n1. Neil Armstrong → a. Painted Mona Lisa\n2. Alexander Graham Bell → b. First moon walk\n3. Leonardo da Vinci → c. Invented telephone\n4. Rudyard Kipling → d. Wrote Jungle Book\n\nAnswers: 1-b, 2-c, 3-a, 4-d\n\n### 💭 Imagine:\nIf you could invent something, what would it be? Draw it!"
+    },
+    {
+      "id": "animals-speed",
+      "title": "Animal Olympics: Who's the Fastest? 🐆⚡",
+      "content": "## Speed Champions of the Animal Kingdom!\n\n### 🥇 Land Speed Champion:\n- **Cheetah** – The fastest land animal!\n- Can run up to **112 km per hour** (that's faster than a car on city roads!).\n- Only runs this fast in short bursts to catch prey.\n- Special features: Light body, long legs, flexible spine, tail for balance.\n\n### Other Speed Stars:\n- **Peregrine Falcon** – Fastest bird (and fastest animal overall!) – dives at 389 km/h!\n- **Sailfish** – Fastest fish in ocean – 110 km/h\n- **Pronghorn Antelope** – Second fastest land animal – 88 km/h\n\n### 🐢 Slow & Steady:\n- **Garden Snail** – One of the slowest – moves about 0.05 km/h!",
+      "codeExample": "### ⚡ Speed Comparisons:\nComplete this race:\n1. Cheetah: 112 km/h → Like a ______ on a highway!\n2. Human (fastest): 45 km/h → Like a ______ on a street.\n3. Snail: 0.05 km/h → Like watching ______ grow!\n\n### 🎨 Draw the Winner:\nDraw a cheetah running with speed lines behind it. Write: \"I'm the FASTEST!\""
+    }
+  ]
+}

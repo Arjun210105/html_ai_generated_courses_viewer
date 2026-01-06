@@ -1,0 +1,37 @@
+{
+  "id": "chapter-2-maths",
+  "title": "Mathematics Superpowers: Making Groups & Sharing Fairly",
+  "description": "A fun, easy guide for Class 3/4 students to learn Multiplication and Division! Learn key terms, magical rules, and how these two operations are best friends.",
+  "subtopics": [
+    {
+      "id": "multiplication",
+      "title": "Making Groups - Multiplication",
+      "content": "## What is Multiplication? 🤔\n\nMultiplication is a **fast way to add the same number many times**. It helps us count things quickly when they are in equal groups.\n\n### The Superhero Team:\n- **Multiplicand:** The number of items in **ONE group** (like 3 cookies per plate).\n- **Multiplier:** The **number of groups** you have (like 4 plates).\n- **Product:** The **total answer** you get after multiplying.\n\n### Example Story:\nYou have **4 lunchboxes**. Each lunchbox has **6 strawberries**. How many strawberries in total?\n> **Calculation:** `4 × 6 = 24`  \n> Here, 6 is the multiplicand (in each box), 4 is the multiplier (number of boxes), and 24 is the product (total strawberries).",
+      "codeExample": "### 🧠 Practice Together:\n1. You see 5 bicycles. Each bicycle has 2 wheels. How many wheels total?  \n   → `5 × 2 = 10` wheels\n2. There are 3 rows of plants with 7 plants in each row. How many plants?  \n   → `3 × 7 = 21` plants\n\n### ✏️ Your Turn:\nDraw 4 circles. Put 3 stars ☆ in each circle. Count all stars: `4 × 3 = ___`"
+    },
+    {
+      "id": "multiplication-properties",
+      "title": "Magical Rules of Multiplication",
+      "content": "## Multiplication's Never-Changing Rules ✨\n\nThese rules ALWAYS work! They're like math magic tricks.\n\n### 1. Swap Rule (Commutative Property)\nYou can **swap the numbers** and still get the same answer!\n> `a × b = b × a`  \n> **Example:** `6 × 4 = 24` and `4 × 6 = 24`  \n> 6 bags with 4 candies each = 4 bags with 6 candies each (same total!).\n\n### 2. Grouping Rule (Associative Property)\nWhen multiplying **three numbers**, it doesn't matter which two you multiply first.\n> `(a × b) × c = a × (b × c)`  \n> **Example:** `(2 × 3) × 4 = 6 × 4 = 24`  \n> Also: `2 × (3 × 4) = 2 × 12 = 24`\n\n### 3. Me Rule (Identity Property)\nAny number multiplied by **1** stays the same.\n> `a × 1 = a`  \n> **Example:** `9 × 1 = 9`  \n> Like having 9 bags with only 1 toy in each bag.\n\n### 4. Zero Rule\nAny number multiplied by **0** is always 0.\n> `a × 0 = 0`  \n> **Example:** `5 × 0 = 0`  \n> Like having 5 empty bags with nothing inside!",
+      "codeExample": "### 🎯 Test the Magic:\n1. Swap Rule: `8 × 3 = 24` and `3 × 8 = ?` → ______\n2. Grouping Rule: `(5 × 2) × 3 = 10 × 3 = 30`  \n   `5 × (2 × 3) = 5 × 6 = ?` → ______\n3. Me Rule: `15 × 1 = ?` → ______\n4. Zero Rule: `100 × 0 = ?` → ______\n\n### 🎮 Fun Challenge:\nCan you find examples of these rules in your room?  \nExample: Swap Rule → 2 rows of 6 chairs = 6 rows of 2 chairs?"
+    },
+    {
+      "id": "division-terms",
+      "title": "Sharing Fairly - Division",
+      "content": "## What is Division? 🍰\n\nDivision is about **splitting a big group into smaller, equal parts**. It's the opposite of making groups!\n\n### The Sharing Team:\n- **Dividend:** The **big total number** you start with (what you want to share).\n- **Divisor:** The **number of equal groups** or people you are sharing with.\n- **Quotient:** The **fair share** each group gets.\n- **Remainder:** Sometimes things can't be shared perfectly. The **leftovers** are called remainder.\n\n### Example Story:\nYou have **15 marbles** and want to share them equally with **4 friends** (including you!). How many does each person get? Are there any left over?\n> **Calculation:** `15 ÷ 5 = 3`  \n> Here, 15 is the dividend (total marbles), 5 is the divisor (5 people), 3 is the quotient (3 marbles each).  \n> Wait! 5 × 3 = 15, so there's **0 remainder** - it's perfect sharing!",
+      "codeExample": "### 🍪 Sharing Practice:\n1. You have 20 cookies for 10 friends. How many each?  \n   → `20 ÷ 10 = 2` cookies each\n2. 17 stickers shared among 3 notebooks. How many per notebook?  \n   → `17 ÷ 3 = 5` with remainder 2  \n   (Because 3 × 5 = 15, and 17 - 15 = 2 left over)\n\n### 🤔 Your Sharing Problem:\nYou have 14 pencils. Put them equally into 2 pencil cases. How many in each case?  \n`14 ÷ 2 = ____`"
+    },
+    {
+      "id": "division-properties",
+      "title": "Special Rules of Division",
+      "content": "## Division's Secret Shortcuts 🗝️\n\n### 1. The 'All Mine' Rule (Division by 1)\nAny number divided by **1** stays the same number.\n> **Example:** `8 ÷ 1 = 8`  \n> Like having 8 chocolates but only YOU want them - you get all 8!\n\n### 2. The 'Perfect Match' Rule (Division by Itself)\nAny number divided by **itself** equals 1.\n> **Example:** `9 ÷ 9 = 1`  \n> If 9 friends share 9 cookies equally, each gets exactly 1.\n\n### 3. The 'Nothing to Share' Rule (0 ÷ Number)\nZero divided by **any number** equals 0.\n> **Example:** `0 ÷ 7 = 0`  \n> An empty bag with 0 candies shared among 7 friends = 0 for everyone.\n\n### 4. The 'Impossible Question' Rule (Division by 0) ⚠️\nYou **CANNOT divide by 0**. It's undefined and impossible in math.\n> **Example:** `6 ÷ 0 = ❌`  \n> Like asking: \"How many empty boxes can you fill with 6 toys?\" It doesn't make sense!",
+      "codeExample": "### 🧮 Rule Practice:\n1. All Mine Rule: `25 ÷ 1 = ?` → ______\n2. Perfect Match: `8 ÷ 8 = ?` → ______\n3. Nothing to Share: `0 ÷ 15 = ?` → ______\n4. Impossible Question: `9 ÷ 0 = ?` → ______ (Draw a big ❌)\n\n### 📝 Quick Quiz:\n- Your 1 puppy eats 5 biscuits. If you had 5 puppies, and 5 biscuits total, each gets `5 ÷ 5 = ___` biscuit.\n- If you have 0 apples for 4 friends, each gets `0 ÷ 4 = ___` apples.\n- Can you share 10 toys with 0 children? Yes/No → ______"
+    },
+    {
+      "id": "multiplication-division-relation",
+      "title": "Best Friends Forever: Multiplication & Division",
+      "content": "## The Inverse Operation Friendship 🔄\n\nMultiplication and Division are **best friends who undo each other**'s work! They are called **inverse operations**.\n\n### Think of it like this:\n- **Multiplication** puts groups together (making bigger).\n- **Division** splits them apart (sharing fairly).\n\n### The Magic Triangle:\nIf you know one fact, you automatically know THREE more!\n> From `4 × 6 = 24`, you know:\n> 1. `6 × 4 = 24` (Swap rule!)\n> 2. `24 ÷ 6 = 4` (If 24 total is split into 6 groups, each gets 4)\n> 3. `24 ÷ 4 = 6` (If 24 total is split into 4 groups, each gets 6)\n\n### They Check Each Other:\n- Multiplication problems can be checked by division.\n- Division problems can be checked by multiplication.",
+      "codeExample": "### 🧩 Fact Families:\n**Example 1:** Numbers 7, 8, 56  \n→ `7 × 8 = 56`  \n→ `8 × 7 = 56`  \n→ `56 ÷ 8 = 7`  \n→ `56 ÷ 7 = 8`\n\n**Example 2:** Numbers 9, 4, 36  \nCan you write all 4 facts?  \n1. `___ × ___ = ___`  \n2. `___ × ___ = ___`  \n3. `___ ÷ ___ = ___`  \n4. `___ ÷ ___ = ___`\n\n### 🎲 Game Time:\nPick three numbers that are friends (like 5, 6, 30).  \nAsk a family member: \"If 5 × 6 = 30, then what is 30 ÷ 5?\"  \nYou're teaching them the friendship rule!"
+    }
+  ]
+}

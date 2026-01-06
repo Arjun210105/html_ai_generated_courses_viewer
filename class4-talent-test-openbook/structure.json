@@ -1,0 +1,101 @@
+{
+  "courseId": "class4-talent-test-openbook",
+  "chapters": [
+    {
+      "id": "chapter-1-english",
+      "title": "English Skills",
+      "order": 1,
+      "topics": [
+        {
+          "id": "homophones",
+          "title": "Homophones"
+        },
+        {
+          "id": "antonyms-synonyms",
+          "title": "Antonyms and Synonyms"
+        },
+        {
+          "id": "collective-nouns",
+          "title": "Collective Nouns"
+        },
+        {
+          "id": "number-gender",
+          "title": "Nouns: Number and Gender"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2-maths",
+      "title": "Mathematics",
+      "order": 2,
+      "topics": [
+        {
+          "id": "multiplication",
+          "title": "Multiplication Basics"
+        },
+        {
+          "id": "multiplication-properties",
+          "title": "Properties of Multiplication"
+        },
+        {
+          "id": "division-terms",
+          "title": "Division Key Terms"
+        },
+        {
+          "id": "division-properties",
+          "title": "Properties of Division"
+        },
+        {
+          "id": "multiplication-division-relation",
+          "title": "Relation Between Multiplication and Division"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3-science",
+      "title": "Science",
+      "order": 3,
+      "topics": [
+        {
+          "id": "organ-systems",
+          "title": "Organ Systems Case Study"
+        },
+        {
+          "id": "leaves-photosynthesis",
+          "title": "Leaves and Photosynthesis"
+        }
+      ]
+    },
+    {
+      "id": "chapter-4-gk",
+      "title": "General Knowledge",
+      "order": 4,
+      "topics": [
+        {
+          "id": "solar-system",
+          "title": "Solar System"
+        },
+        {
+          "id": "science-facts",
+          "title": "Science Facts"
+        },
+        {
+          "id": "geography-facts",
+          "title": "Geography"
+        },
+        {
+          "id": "india-gk",
+          "title": "India General Knowledge"
+        },
+        {
+          "id": "famous-people-inventions",
+          "title": "Famous People and Inventions"
+        },
+        {
+          "id": "animals-speed",
+          "title": "Animals and Speed"
+        }
+      ]
+    }
+  ]
+}

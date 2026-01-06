@@ -13,6 +13,13 @@
       "description": "A comprehensive course covering video editing workflows, computer networks, algorithms, web technologies, AI systems, and data science applications",
       "estimatedTime": "120h",
       "level": "Advanced"
+    },
+    {
+      "id": "class4-talent-test-openbook",
+      "title": "Class 4 Talent Test Openbook",
+      "description": "An open-book evaluation designed to assess analytical thinking, reasoning, and general awareness for Class 4 students.",
+      "estimatedTime": "3 hours",
+      "level": "Intermediate"
     }
   ]
 }
