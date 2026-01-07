@@ -1,0 +1,31 @@
+{
+  "id": "chapter-2-maths",
+  "title": "Mathematics Geometry and Numbers",
+  "description": "Explore geometry concepts like angles and lines, rational numbers, and comparing quantities for Class 6 students.",
+  "subtopics": [
+    {
+      "id": "types-of-angles",
+      "title": "Types of Angles",
+      "content": "## Types of Angles\n\nGeometry and numbers form an important part of mathematics. A line is a straight path that extends endlessly in both directions. When two lines meet, they form an angle. Angles are measured in degrees. Some common types of angles are:\n\n- **Acute angle**: less than 90°\n- **Right angle**: exactly 90°\n- **Obtuse angle**: between 90° and 180°\n- **Straight angle**: exactly 180°\n- **Reflex angle**: greater than 180° but less than 360° [file:1]",
+      "codeExample": "### Angle Questions:\n- What is an acute angle?\n- Name an angle that measures exactly 90°.\n- How many degrees in a straight angle?\n\n### Practice:\n- Classify given angles by type\n- Measure angles using a protractor\n- Draw examples of each angle type"
+    },
+    {
+      "id": "lines-and-angles",
+      "title": "Lines and Angle Relationships",
+      "content": "## Lines and Angle Relationships\n\nWhen two lines intersect, opposite angles are vertically opposite angles, and they are always equal. Also, when a line cuts two or more parallel lines, it forms corresponding, alternate, and interior angles which have special relationships. [file:1]",
+      "codeExample": "### Relationship Questions:\n- What are vertically opposite angles?\n- Define corresponding angles.\n- What is true about alternate angles with parallel lines?\n\n### Practice:\n- Identify angle pairs in diagrams\n- Prove vertically opposite angles are equal\n- Solve problems with parallel lines"
+    },
+    {
+      "id": "rational-numbers",
+      "title": "Rational Numbers",
+      "content": "## Rational Numbers\n\nA rational number is a number that can be expressed in the form p/q, where p and q are integers and q ≠ 0. Examples include 2/3, 5/7, and 4. Rational numbers include positive and negative fractions, whole numbers, and integers. [file:1]",
+      "codeExample": "### Rational Number Questions:\n- Define a rational number.\n- Give examples of rational numbers.\n- Is 4 a rational number? Why?\n\n### Practice:\n- Identify rational vs irrational numbers\n- Convert mixed fractions to improper\n- Perform operations on rational numbers"
+    },
+    {
+      "id": "comparing-quantities",
+      "title": "Comparing Quantities",
+      "content": "## Comparing Quantities\n\nComparing quantities involves finding ratios, percentages, and simple interest. Ratio compares two quantities of the same kind e.g., 2:3. Percentage represents a number as a part of 100 e.g., 40% means 40 out of 100. Simple Interest (SI) is calculated using the formula: $$SI = \\frac{P \\times R \\times T}{100}$$, where P = Principal, R = Rate of interest, T = Time in years. [file:1]",
+      "codeExample": "### Quantity Questions:\n- What is a ratio? Give example.\n- Convert 40% to fraction.\n- Calculate SI if P=1000, R=5%, T=2 years.\n\n### Practice:\n- Find ratios from given data\n- Solve percentage problems\n- Compute simple interest"
+    }
+  ]
+}

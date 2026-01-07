@@ -1,0 +1,73 @@
+{
+  "courseId": "class7-r1-online-course",
+  "chapters": [
+    {
+      "id": "chapter-1-english",
+      "title": "English",
+      "order": 1,
+      "topics": [
+        {
+          "id": "rc-passage-1-the-little-gesture",
+          "title": "Reading Comprehension Passage 1 - The Little Gesture"
+        },
+        {
+          "id": "rc-passage-2-the-morning-promise",
+          "title": "Reading Comprehension Passage 2 - The Morning Promise"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2-maths",
+      "title": "Mathematics",
+      "order": 2,
+      "topics": [
+        {
+          "id": "types-of-angles",
+          "title": "Types of Angles (Acute, Right, Obtuse, Straight, Reflex)"
+        },
+        {
+          "id": "lines-and-angles",
+          "title": "Lines, Intersecting Lines, and Angle Relationships (Vertically Opposite, Corresponding, Alternate)"
+        },
+        {
+          "id": "rational-numbers",
+          "title": "Rational Numbers"
+        },
+        {
+          "id": "comparing-quantities",
+          "title": "Comparing Quantities (Ratios, Percentages, Simple Interest)"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3-science",
+      "title": "Science",
+      "order": 3,
+      "topics": [
+        {
+          "id": "effect-of-sunlight-on-plants",
+          "title": "Effect of Sunlight on Plant Growth"
+        }
+      ]
+    },
+    {
+      "id": "chapter-4-gk",
+      "title": "General Knowledge",
+      "order": 4,
+      "topics": [
+        {
+          "id": "health-and-fitness",
+          "title": "Health and Fitness"
+        },
+        {
+          "id": "cyber-security",
+          "title": "Cyber Security"
+        },
+        {
+          "id": "structure-of-earth",
+          "title": "Our Earth (Layers of the Earth)"
+        }
+      ]
+    }
+  ]
+}

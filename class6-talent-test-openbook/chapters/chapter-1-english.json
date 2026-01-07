@@ -1,0 +1,19 @@
+{
+  "id": "chapter-1-english",
+  "title": "English Reading Comprehension",
+  "description": "Develop reading comprehension skills through engaging passages for Class 6 entrance preparation.",
+  "subtopics": [
+    {
+      "id": "rc-passage-1-the-lost-pencil",
+      "title": "Reading Comprehension Passage 1: The Lost Pencil",
+      "content": "## The Lost Pencil\n\nAarav was known for being careless with his things. One morning, he misplaced his favourite pencil—one that his father had given him before an exam. He searched everywhere: under the desk, inside books, even in his schoolbag twice. Feeling upset, he finally sat down and borrowed a pencil from his friend, Mehak. At the end of the day, when he opened his diary, the missing pencil rolled out from between the pages. He smiled, realizing that being organized could have saved his morning. That night, Aarav cleaned his schoolbag and arranged his table neatly before sleeping.[file:1]",
+      "codeExample": "### Comprehension Questions:\n- Why was Aarav upset about losing his pencil?\n- Where did Aarav search for his pencil?\n- What did Aarav learn from this experience?\n\n### Practice:\n- Answer questions based on the passage\n- Identify main idea and supporting details\n- Write a short summary of the story"
+    },
+    {
+      "id": "rc-passage-2-the-sparrows-nest",
+      "title": "Reading Comprehension Passage 2: The Sparrow's Nest",
+      "content": "## The Sparrow's Nest\n\nOne afternoon, Tara noticed a sparrow struggling to build its nest near her window. Strong winds kept blowing away the twigs. Tara spent her evening collecting small bits of thread and paper and placed them on the ledge. The next day, the sparrow returned and used them to build a strong nest. Weeks later, Tara heard soft chirping—tiny chicks had hatched. Watching them, she felt a quiet pride and joy that her small act had made a difference.[file:1]",
+      "codeExample": "### Comprehension Questions:\n- What problem was the sparrow facing?\n- How did Tara help the sparrow?\n- What happened weeks later?\n\n### Practice:\n- Identify cause and effect in the story\n- Explain Tara's feelings at the end\n- Predict what might happen next"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "courseId": "class6-r1-online-course",
+  "chapters": [
+    {
+      "id": "chapter-1-english",
+      "title": "English",
+      "order": 1,
+      "topics": [
+        {
+          "id": "rc-passage-1-the-lost-pencil",
+          "title": "Reading Comprehension Passage 1: The Lost Pencil"
+        },
+        {
+          "id": "rc-passage-2-the-sparrows-nest",
+          "title": "Reading Comprehension Passage 2: The Sparrow's Nest"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2-maths",
+      "title": "Mathematics",
+      "order": 2,
+      "topics": [
+        {
+          "id": "whole-numbers",
+          "title": "Whole Numbers"
+        },
+        {
+          "id": "integers",
+          "title": "Integers"
+        },
+        {
+          "id": "divisibility-rules",
+          "title": "Divisibility Rules"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3-science",
+      "title": "Science",
+      "order": 4,
+      "topics": [
+        {
+          "id": "water-conservation-case-study",
+          "title": "Water Conservation Case Study"
+        },
+        {
+          "id": "water-cycle-diagram-study",
+          "title": "Water Cycle Diagram Study"
+        }
+      ]
+    },
+    {
+      "id": "chapter-4-gk",
+      "title": "General Knowledge",
+      "order": 3,
+      "topics": [
+        {
+          "id": "indias-civilisation",
+          "title": "India's Civilisation"
+        },
+        {
+          "id": "globe",
+          "title": "Globe"
+        },
+        {
+          "id": "oceans-and-continents",
+          "title": "Oceans and Continents"
+        }
+      ]
+    }
+  ]
+}

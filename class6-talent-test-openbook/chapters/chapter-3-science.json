@@ -1,0 +1,19 @@
+{
+  "id": "chapter-4-science",
+  "title": "Science Water Conservation and Cycle",
+  "description": "Explore water conservation through case studies and understand the water cycle with diagram study for Class 6 entrance preparation.",
+  "subtopics": [
+    {
+      "id": "water-conservation-case-study",
+      "title": "Water Conservation Case Study",
+      "content": "## Water for Everyone\n\nStudents of Class 6 observe that a school tap keeps leaking. They collect the dripping water in a bucket for 10 minutes and find 20 litres wasted. They decide to measure total loss per hour and create awareness posters. This case study highlights the importance of fixing leaks to save water in schools.[file:1]",
+      "codeExample": "### Case Study Questions:\n- How much water was wasted in 10 minutes?\n- Calculate water wasted per hour.\n- Why should students create awareness posters?\n\n### Practice:\n- Calculate daily/weekly water wastage\n- Suggest ways to fix leaks\n- Design a simple poster on water conservation"
+    },
+    {
+      "id": "water-cycle-diagram-study",
+      "title": "Water Cycle Diagram Study",
+      "content": "## Water Cycle\n\nThe water cycle describes how water moves on Earth through evaporation, condensation, precipitation, and collection. Key stages include:\n- Evaporation: Water turns to vapor from heat.\n- Condensation: Vapor cools to form clouds.\n- Precipitation: Rain, snow falls.\n- Collection: Water gathers in oceans, rivers.\nStudy the diagram to understand the continuous process.[file:1]",
+      "codeExample": "### Water Cycle Questions:\n- What is evaporation?\n- Describe the process of condensation.\n- How does water return to oceans?\n\n### Practice:\n- Label a water cycle diagram\n- Explain one stage in your own words\n- Draw a simple water cycle flowchart"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chapter-3-gk",
+  "title": "General Knowledge Geography and History",
+  "description": "Learn about India's ancient civilisation, globes, and Earth's physical features for Class 6 entrance preparation.",
+  "subtopics": [
+    {
+      "id": "indias-civilisation",
+      "title": "India's Civilisation",
+      "content": "## India's Civilisation\n\nIndia's civilisation is among the oldest in the world. The Indus Valley people lived in well-planned cities like Harappa and Mohenjo-Daro. Ancient Indians made great progress in science, mathematics, and medicine. Values such as peace, honesty, and respect for all have always been an important part of Indian culture.[file:1]",
+      "codeExample": "### Questions on India's Civilisation:\n- Name two Indus Valley cities.\n- What achievements did ancient Indians make?\n- Name two Indian cultural values.\n\n### Practice:\n- List features of Indus Valley cities\n- Match achievements to ancient India\n- Discuss importance of cultural values"
+    },
+    {
+      "id": "globe",
+      "title": "Globe",
+      "content": "## Globe\n\nA globe is a small, round model of the Earth that shows continents, oceans, and countries in their correct positions. The Equator divides the Earth into two hemispheres. Lines of latitude and longitude help us find exact places. Unlike maps, globes are not flat, so they show the true shape and size of the Earth.[file:1]",
+      "codeExample": "### Globe Questions:\n- What does a globe show?\n- What is the Equator?\n- How do latitude and longitude help?\n\n### Practice:\n- Identify Equator on a globe\n- Locate places using coordinates\n- Compare globe vs flat map"
+    },
+    {
+      "id": "oceans-and-continents",
+      "title": "Oceans and Continents",
+      "content": "## Oceans and Continents\n\nThe Earth has seven continents and five oceans. Continents are large landmasses, and oceans cover most of the Earth's surface. The Pacific Ocean is the largest, while the Arctic Ocean is the smallest. All continents and oceans are connected as one system.[file:1]",
+      "codeExample": "### Questions on Oceans and Continents:\n- How many continents and oceans are there?\n- Name the largest and smallest oceans.\n- Why are continents and oceans connected?\n\n### Practice:\n- List seven continents\n- Name five oceans with sizes\n- Draw Earth with labels"
+    }
+  ]
+}

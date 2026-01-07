@@ -1,0 +1,13 @@
+{
+  "id": "chapter-3-science",
+  "title": "Science Photosynthesis and Plant Growth",
+  "description": "Understand the role of sunlight in plant growth through experimental observation for Class 6 students.",
+  "subtopics": [
+    {
+      "id": "effect-of-sunlight-on-plants",
+      "title": "Effect of Sunlight on Plant Growth",
+      "content": "## Effect of Sunlight on Plant Growth\n\nFour students — Aditi, Kabir, Meera, and Rohan — decided to check how sunlight affects plant growth. They kept three pots:\n\n- **Pot A**: In full sunlight\n- **Pot B**: In partial shade\n- **Pot C**: In complete darkness\n\nThey watered all equally and observed for 10 days. Pot A’s plant grew tall and green, Pot B’s was pale and weak, while Pot C’s plant became yellow and died. The group discussed why this happened and how sunlight plays a role in plant life. Sunlight is essential for photosynthesis, where plants make food. [file:1]",
+      "codeExample": "### Comprehension Questions:\n- What were the conditions for each pot?\n- Describe the growth in Pot A, B, and C.\n- Why did the plant in Pot C die?\n\n### Practice:\n- Explain the importance of sunlight for plants\n- Design a similar experiment\n- Predict outcomes for different light conditions"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "chapter-4-gk",
+  "title": "General Knowledge Health, Safety, and Earth",
+  "description": "Learn about health, cyber safety, and Earth's structure for Class 6 students.",
+  "subtopics": [
+    {
+      "id": "health-and-fitness",
+      "title": "Health and Fitness",
+      "content": "## Health and Fitness\n\nGood health helps us live happily and do our work better. Eating healthy food, exercising, and getting enough rest keep our body and mind fit. Yoga and outdoor games make us active and strong. A healthy person is always energetic and cheerful. [file:1]",
+      "codeExample": "### Health Questions:\n- Why is good health important?\n- Name ways to stay healthy.\n- What makes a person energetic?\n\n### Practice:\n- List healthy foods\n- Describe a fitness routine\n- Explain benefits of yoga"
+    },
+    {
+      "id": "cyber-security",
+      "title": "Cyber Security",
+      "content": "## Cyber Security\n\nThe internet is useful for learning and communication, but it can also be risky. Cyber safety means protecting yourself online. Never share personal information, use strong passwords, and avoid talking to strangers. Using the internet wisely keeps you safe from harm. [file:1]",
+      "codeExample": "### Cyber Safety Questions:\n- What is cyber safety?\n- Name rules for online safety.\n- Why use strong passwords?\n\n### Practice:\n- Create a strong password\n- Identify unsafe online behaviors\n- Discuss internet risks"
+    },
+    {
+      "id": "structure-of-earth",
+      "title": "Our Earth",
+      "content": "## Our Earth\n\nThe Earth consists of three layers — the crust, mantle, and core. Each layer has a unique composition and temperature. The crust supports all life forms, while the mantle, made of molten rocks, causes volcanic activity. The inner core is extremely hot and generates Earth’s magnetic field. These layers work together to shape the planet’s surface and maintain natural balance. [file:1]",
+      "codeExample": "### Earth Questions:\n- Name Earth's three layers.\n- What is the mantle made of?\n- Role of the inner core?\n\n### Practice:\n- Draw Earth's layers diagram\n- Describe crust functions\n- Explain volcanic activity"
+    }
+  ]
+}

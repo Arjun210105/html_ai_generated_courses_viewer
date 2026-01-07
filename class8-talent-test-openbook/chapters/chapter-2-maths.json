@@ -1,0 +1,25 @@
+{
+  "id": "chapter-2-maths",
+  "title": "Mathematics",
+  "description": "Explore key mathematical concepts including equations, quantities, and measurements for Grade 8 students.",
+  "subtopics": [
+    {
+      "id": "linear-equations",
+      "title": "Linear Equations in One Variable",
+      "content": "## Linear Equations\n\nA linear equation in one variable is an equation that involves only one variable and the highest power of the variable is 1. Examples: 2x + 5 = 15, 3x - 7 = 11. To solve such equations, isolate the variable on one side by using addition, subtraction, multiplication, or division. Example: 2x + 5 = 15 → 2x = 15 - 5 → 2x = 10 → x = 5.",
+      "codeExample": "### Practice Questions (Q11-20):\n- Solve for x: 2x + 5 = 15\n- Solve: 3x - 7 = 11\n- Form equations from word problems\n- Verify solutions by substitution\n\n### Practice:\n- Step-by-step equation solving\n- Balance equations using inverse operations\n- Apply to real-life scenarios"
+    },
+    {
+      "id": "comparing-quantities",
+      "title": "Comparing Quantities",
+      "content": "## Comparing Quantities\n\nComparing quantities involves finding ratios, percentages, profit and loss, and simple and compound interest. Percentage = (Value / Total value) × 100. Profit or Loss = (Profit or Loss / Cost Price) × 100. Simple Interest: SI = (P × R × T) / 100. Compound Interest: CI = P(1 + R/100)^T - P.",
+      "codeExample": "### Practice Questions:\n- Calculate 20% of 500\n- Find profit percentage if CP=400, SP=500\n- Compute SI for P=1000, R=5%, T=2 years\n- Compare SI and CI\n\n### Practice:\n- Solve percentage word problems\n- Profit/loss calculations\n- Interest computations"
+    },
+    {
+      "id": "mensuration",
+      "title": "Mensuration",
+      "content": "## Mensuration\n\nMensuration deals with the measurement of shapes and figures. It includes perimeter, area, and volume of 2D and 3D figures. Common formulas: Area of rectangle = l × b, Perimeter of rectangle = 2(l + b), Area of circle = πr², Volume of cuboid = l × b × h, Volume of cylinder = πr²h.",
+      "codeExample": "### Practice Questions:\n- Area of rectangle l=10, b=5\n- Perimeter of circle r=7\n- Volume of cuboid l=4, b=3, h=2\n- Surface area applications\n\n### Practice:\n- Calculate areas and volumes\n- Solve mensuration problems\n- Unit conversions"
+    }
+  ]
+}

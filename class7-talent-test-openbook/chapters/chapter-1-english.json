@@ -1,0 +1,19 @@
+{
+  "id": "chapter-1-english",
+  "title": "English Reading Comprehension",
+  "description": "Develop reading comprehension skills through engaging passages for Class 6 students.",
+  "subtopics": [
+    {
+      "id": "rc-passage-1-the-little-gesture",
+      "title": "Reading Comprehension Passage 1 - The Little Gesture",
+      "content": "## The Little Gesture\n\nIt was the last day of the school term. As students rushed out after the final bell, Maya noticed the new girl, Rina, sitting quietly under a tree. Her shoes were torn, and she was staring at the ground. Maya had been saving her lunch money all week to buy a birthday gift for her best friend, but she walked up to Rina instead and asked, 'Would you like some ice cream?' They shared one cup, laughing softly under the shade. Later, when Maya's friend asked why she didn't buy the gift, she simply smiled and said, 'Some gifts aren't things you can wrap.' That evening, Rina sent her a small note: 'Thank you for making me feel seen.' [file:1]",
+      "codeExample": "### Comprehension Questions:\n- Why was Maya saving her lunch money?\n- What did Maya notice about Rina?\n- How did Rina respond to Maya's kindness?\n\n### Practice:\n- Identify the main theme of the passage\n- Answer questions based on the story\n- Write a similar act of kindness story"
+    },
+    {
+      "id": "rc-passage-2-the-morning-promise",
+      "title": "Reading Comprehension Passage 2 - The Morning Promise",
+      "content": "## The Morning Promise\n\nArjun loved sleeping in, but one morning, his grandmother gently shook him awake before sunrise. 'Come, I want to show you something,' she whispered. Half asleep, he followed her to the terrace. The world was quiet - the sky was still grey. Then, as the sun peeked above the trees, the light touched their faces with warmth. 'Do you see that?' she said softly. 'Every day begins with a promise—new light, new chances. It's up to us to notice.' For the first time, Arjun didn't complain about waking up early. He stood there silently, watching the sky change colours, feeling something he couldn't quite explain—peace mixed with purpose. [file:1]",
+      "codeExample": "### Comprehension Questions:\n- Why did Arjun's grandmother wake him early?\n- What lesson did Arjun learn?\n- How did Arjun feel after watching the sunrise?\n\n### Practice:\n- Explain the symbolism of sunrise\n- Answer inference-based questions\n- Describe your own morning routine"
+    }
+  ]
+}

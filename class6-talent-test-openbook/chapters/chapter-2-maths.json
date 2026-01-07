@@ -1,0 +1,25 @@
+{
+  "id": "chapter-2-maths",
+  "title": "Mathematics Numbers and Divisibility",
+  "description": "Build foundational skills in whole numbers, integers, and divisibility rules for Class 6 entrance preparation.",
+  "subtopics": [
+    {
+      "id": "whole-numbers",
+      "title": "Whole Numbers",
+      "content": "## Whole Numbers\n\nNumbers are the foundation of mathematics. Whole numbers are the numbers that start from 0 and go on without end: 0, 1, 2, 3, 4, 5, .... They do not include fractions, decimals, or negative numbers. Whole numbers are used for counting and ordering things in daily life.[file:1]",
+      "codeExample": "### Understanding Whole Numbers:\n- What are whole numbers?\n- Give examples of whole numbers up to 10.\n- How are whole numbers different from fractions?\n\n### Practice:\n- Identify whole numbers from a list\n- Arrange whole numbers in order\n- Count objects using whole numbers"
+    },
+    {
+      "id": "integers",
+      "title": "Integers",
+      "content": "## Integers\n\nIntegers are a bigger set of numbers that include positive numbers, negative numbers, and zero. For example: ..., -3, -2, -1, 0, 1, 2, 3, .... Integers help us to describe situations that involve both directions, such as gains and losses, above or below sea level, or increase and decrease in temperature.[file:1]",
+      "codeExample": "### Understanding Integers:\n- What do integers include?\n- Give examples of positive and negative integers.\n- How do integers represent temperature changes?\n\n### Practice:\n- Plot integers on a number line\n- Compare integers (greater than, less than)\n- Solve simple integer word problems"
+    },
+    {
+      "id": "divisibility-rules",
+      "title": "Divisibility Rules",
+      "content": "## Divisibility Rules\n\nThe divisibility rules help us know whether one number can be divided exactly by another, without doing long division. Some important rules are:\n- A number is divisible by 2 if its last digit is even (0, 2, 4, 6, 8).\n- A number is divisible by 3 if the sum of its digits is divisible by 3.\n- A number is divisible by 5 if it ends in 0 or 5.\n- A number is divisible by 9 if the sum of its digits is divisible by 9.\n- A number is divisible by 10 if it ends in 0.\nThese rules are very useful for checking divisibility quickly, finding factors, and simplifying problems in mathematics.[file:1]",
+      "codeExample": "### Divisibility Questions:\n- Is 246 divisible by 2? By 3?\n- Check if 125 is divisible by 5.\n- Test 729 for divisibility by 9.\n\n### Practice:\n- Apply rules to check divisibility\n- Find factors using divisibility tests\n- Solve mixed divisibility problems"
+    }
+  ]
+}

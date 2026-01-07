@@ -1,0 +1,73 @@
+{
+  "courseId": "class8-r1-online-course",
+  "chapters": [
+    {
+      "id": "chapter-1-english",
+      "title": "English",
+      "order": 1,
+      "topics": [
+        {
+          "id": "rc-passage-forgotten-homework",
+          "title": "The Forgotten Homework"
+        },
+        {
+          "id": "rc-passage-clean-energy",
+          "title": "The Power of Clean Energy"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2-maths",
+      "title": "Mathematics",
+      "order": 2,
+      "topics": [
+        {
+          "id": "linear-equations",
+          "title": "Linear Equations in One Variable"
+        },
+        {
+          "id": "comparing-quantities",
+          "title": "Comparing Quantities"
+        },
+        {
+          "id": "mensuration",
+          "title": "Mensuration"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3-science",
+      "title": "Science",
+      "order": 3,
+      "topics": [
+        {
+          "id": "eco-friendly-classroom",
+          "title": "Eco-Friendly Classroom"
+        },
+        {
+          "id": "electric-circuit",
+          "title": "Simple Electric Circuit"
+        }
+      ]
+    },
+    {
+      "id": "chapter-4-social",
+      "title": "Social Studies",
+      "order": 4,
+      "topics": [
+        {
+          "id": "sports-discipline",
+          "title": "Sports and Discipline"
+        },
+        {
+          "id": "india-my-country",
+          "title": "India My Country"
+        },
+        {
+          "id": "waste-management",
+          "title": "Waste Management"
+        }
+      ]
+    }
+  ]
+}
