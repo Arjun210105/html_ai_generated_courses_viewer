@@ -10,6 +10,11 @@ class CourseViewer {
         const urlParams = new URLSearchParams(window.location.search);
         this.courseId = urlParams.get('course-id');
         
+        // Track app initialization
+        this.trackEvent('app_initialized', {
+            'initial_course': this.courseId || '(none)'
+        });
+        
         this.init();
     }
     
@@ -32,6 +37,11 @@ class CourseViewer {
             const data = await response.json();
             this.courses = data.courses;
             
+            // Track courses loaded
+            this.trackEvent('courses_loaded', {
+                'courses_count': this.courses.length
+            });
+            
             // Populate course selector
             const courseSelect = document.getElementById('courseSelect');
             this.courses.forEach(course => {
@@ -47,6 +57,10 @@ class CourseViewer {
             }
         } catch (error) {
             console.error('Error loading courses:', error);
+            this.trackEvent('error', {
+                'error_type': 'courses_load_failed',
+                'error_message': error.message
+            });
             this.showError('Failed to load courses list');
         }
     }
@@ -55,10 +69,19 @@ class CourseViewer {
         try {
             this.showLoading(true);
             
+            // Track course loading
+            this.trackEvent('course_view', {
+                'course_id': courseId
+            });
+            
             // Find course
             this.currentCourse = this.courses.find(c => c.id === courseId);
             if (!this.currentCourse) {
                 this.showError('Course not found');
+                this.trackEvent('error', {
+                    'error_type': 'course_not_found',
+                    'course_id': courseId
+                });
                 return;
             }
             
@@ -81,6 +104,11 @@ class CourseViewer {
             
         } catch (error) {
             console.error('Error loading course:', error);
+            this.trackEvent('error', {
+                'error_type': 'course_load_failed',
+                'course_id': courseId,
+                'error_message': error.message
+            });
             this.showError('Failed to load course structure');
         } finally {
             this.showLoading(false);
@@ -90,6 +118,12 @@ class CourseViewer {
     async loadChapter(chapterId) {
         try {
             this.showLoading(true, 'Loading chapter content...');
+            
+            // Track chapter view
+            this.trackEvent('chapter_view', {
+                'course_id': this.currentCourse?.id,
+                'chapter_id': chapterId
+            });
             
             // Update URL without reloading page
             const url = new URL(window.location);
@@ -116,6 +150,11 @@ class CourseViewer {
             
         } catch (error) {
             console.error('Error loading chapter:', error);
+            this.trackEvent('error', {
+                'error_type': 'chapter_load_failed',
+                'chapter_id': chapterId,
+                'error_message': error.message
+            });
             this.showError('Failed to load chapter content');
         } finally {
             this.showLoading(false);
@@ -150,6 +189,12 @@ class CourseViewer {
             const header = chapterItem.querySelector('.chapter-header');
             header.addEventListener('click', () => {
                 chapterItem.classList.toggle('active');
+                // Track chapter expansion
+                this.trackEvent('chapter_expanded', {
+                    'course_id': this.currentCourse?.id,
+                    'chapter_id': chapter.id,
+                    'expanded': chapterItem.classList.contains('active')
+                });
             });
             
             // Add click events to topics
@@ -158,6 +203,14 @@ class CourseViewer {
                 topic.addEventListener('click', async (e) => {
                     e.stopPropagation();
                     const topicId = topic.dataset.topicId;
+                    
+                    // Track topic click
+                    this.trackEvent('topic_clicked', {
+                        'course_id': this.currentCourse?.id,
+                        'chapter_id': chapter.id,
+                        'topic_id': topicId
+                    });
+                    
                     await this.loadChapter(chapter.id);
                     
                     // Scroll to specific topic
@@ -257,6 +310,12 @@ class CourseViewer {
         }
         
         try {
+            // Track search
+            this.trackEvent('search_performed', {
+                'search_query': query,
+                'course_id': this.currentCourse?.id
+            });
+            
             // Search in loaded chapters
             const results = [];
             const searchLower = query.toLowerCase();
@@ -290,11 +349,22 @@ class CourseViewer {
                 });
             }
             
+            // Track search results
+            this.trackEvent('search_results', {
+                'search_query': query,
+                'results_count': results.length,
+                'course_id': this.currentCourse?.id
+            });
+            
             // Display results
             this.displaySearchResults(results, query);
             
         } catch (error) {
             console.error('Search error:', error);
+            this.trackEvent('error', {
+                'error_type': 'search_failed',
+                'error_message': error.message
+            });
         }
     }
     
@@ -328,6 +398,13 @@ class CourseViewer {
     }
     
     navigateToSearchResult(chapterId, subtopicId) {
+        // Track search result click
+        this.trackEvent('search_result_clicked', {
+            'course_id': this.currentCourse?.id,
+            'chapter_id': chapterId,
+            'subtopic_id': subtopicId || '(none)'
+        });
+        
         this.loadChapter(chapterId).then(() => {
             document.getElementById('searchResults').classList.remove('active');
             document.getElementById('courseContent').style.display = 'block';
@@ -346,6 +423,11 @@ class CourseViewer {
     }
     
     goToCourseOverview() {
+        // Track course overview view
+        this.trackEvent('course_overview_viewed', {
+            'course_id': this.currentCourse?.id
+        });
+        
         document.getElementById('courseContent').innerHTML = `
             <div class="course-overview">
                 <h1 class="course-title">${this.currentCourse.title}</h1>
@@ -362,6 +444,12 @@ class CourseViewer {
         // Course selection
         document.getElementById('courseSelect').addEventListener('change', (e) => {
             if (e.target.value) {
+                // Track course selection
+                this.trackEvent('course_selected', {
+                    'course_id': e.target.value,
+                    'course_name': this.courses.find(c => c.id === e.target.value)?.title
+                });
+                
                 const url = new URL(window.location);
                 url.searchParams.set('course-id', e.target.value);
                 window.location.href = url.toString();
@@ -379,7 +467,11 @@ class CourseViewer {
         
         // Mobile menu
         document.getElementById('mobileMenuBtn').addEventListener('click', () => {
-            document.getElementById('sidebar').classList.toggle('active');
+            const isActive = document.getElementById('sidebar').classList.toggle('active');
+            // Track mobile menu toggle
+            this.trackEvent('mobile_menu_toggled', {
+                'menu_opened': isActive
+            });
         });
         
         // Handle browser back/forward
@@ -387,6 +479,12 @@ class CourseViewer {
             const urlParams = new URLSearchParams(window.location.search);
             const chapterId = urlParams.get('chapter');
             const courseId = urlParams.get('course-id');
+            
+            // Track navigation event
+            this.trackEvent('navigation_via_history', {
+                'chapter_id': chapterId || '(none)',
+                'course_id': courseId || '(none)'
+            });
             
             if (courseId && courseId !== this.currentCourse?.id) {
                 this.loadCourse(courseId);
@@ -418,6 +516,24 @@ class CourseViewer {
                 </button>
             </div>
         `;
+    }
+    
+    /**
+     * Track events in Google Analytics
+     * @param {string} eventName - Name of the event
+     * @param {Object} eventData - Event parameters
+     */
+    trackEvent(eventName, eventData = {}) {
+        if (window.gtag) {
+            try {
+                gtag('event', eventName, eventData);
+                console.log(`Analytics Event: ${eventName}`, eventData);
+            } catch (error) {
+                console.error('Error tracking event:', error);
+            }
+        } else {
+            console.warn('Google Analytics not loaded. Event not tracked:', eventName, eventData);
+        }
     }
 }
 
