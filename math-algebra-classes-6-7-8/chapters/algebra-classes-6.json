@@ -1,0 +1,33 @@
+{
+  "id": "algebra-classes-6",
+  "title": "Algebra Explorer: Class 6 - Begin Your Journey! \ud83d\udcda\u2728",
+  "description": "Begin your algebra adventure! Discover fundamental concepts through fun activities and real-world examples. Perfect for Class 6 students starting their journey.",
+  "practice-quiz": true,
+  "subtopics": [
+    {
+      "id": "class6-algebra-introduction",
+      "title": "Algebra Awakening: The Pattern Detectives! \ud83d\udd0d",
+      "content": "**Simple Explanation:** Algebra is like being a detective who finds hidden rules in numbers and shapes! It's all about spotting patterns.\n\n**Memory Aid:** \"**A**lgebra **A**llows **A**mazing **A**rrangements!\" \u2728 (Remember: All A's!)\n\n**Relatable Story:** Imagine you're building a fence for toy animals using sticks:\n- 1 square pen needs 4 sticks\n- 2 square pens need 7 sticks (they share a side!)\n- 3 square pens need 10 sticks\nThere's a secret rule! Each new pen adds just 3 sticks. That's algebra - finding that secret rule! \ud83e\uddd0\n\n**Variables:** Letters that stand for unknown numbers\nExample: If S = number of squares, sticks = 3\u00d7S + 1\n\n**Think About It:** \ud83e\udd14\n- Why do we use letters instead of question marks?\n- Can a pattern ever break? What would that mean?\n- Where do you see patterns in your daily life?"
+    },
+    {
+      "id": "class6-pattern-discovery",
+      "title": "Matchstick Magic: Seeing Patterns in Shapes! \ud83c\udfa8",
+      "content": "**Interactive Activity:** \"Toothpick Pattern Lab\" \ud83e\udd62\nMaterials: Toothpicks, matches, or small sticks\n\n**Pattern 1: Connected Squares**\n1. Build: Create connected squares sharing sides\n2. Record: Make a table\n3. Discover: The magic formula!\n\n**Pattern Table:**\n```\nSquares:  1      2      3      4      5\nToothpicks: 4      7      10     13     16\n            +3     +3     +3     +3\n```\n\n**Secret Rule:** Start with 4, add 3 for each new square!\n**Algebra Language:** T = 3\u00d7S + 1 \ud83c\udfaf\n\n**Pattern 2: Triangles**\nBuild triangles: \u25b3 \u25b3\u25b3 \u25b3\u25b3\u25b3\nCount sticks, find pattern!\n\n**Pattern 3: Your Own Creation**\nCreate your own shape pattern\nFind the rule!\n\n**Visual Prompt:** \"Growing Pattern Chart\" \ud83d\udcc8\nDraw patterns with colors\nConnect with arrows showing growth"
+    },
+    {
+      "id": "class6-variables-expressions",
+      "title": "Variables & Simple Expressions",
+      "content": "**Variables:** Unknown numbers represented by letters\nExamples: x, y, n, a, b\n\n**Why use variables?**\n1. To represent unknown quantities\n2. To write general rules\n3. To solve puzzles\n\n**Simple Expressions:** Math phrases without equals sign\nExamples:\n- 2x (twice some number)\n- n + 5 (a number plus five)\n- 3m - 2 (three times a number minus two)\n\n**Creating Expressions:**\nTranslate word phrases:\n1. \"A number increased by 7\" \u2192 n + 7\n2. \"Twice a number\" \u2192 2x\n3. \"Five less than a number\" \u2192 y - 5\n\n**Memory Aid:** \"**V**ariables are **V**ery **V**aluable for **V**ague values!\"\n\n**Interactive Activity:** \"Mystery Bag Game\" \ud83c\udf92\nPut different small objects in bags\nGive clues using variables\nSolve for what's in each bag"
+    },
+    {
+      "id": "class6-balance-equations",
+      "title": "Balance & Simple Equations \u2696\ufe0f",
+      "content": "**Equations:** Math sentences with equals sign\nExample: x + 3 = 8\n\n**Balance Concept:** Both sides must be equal\nLike a seesaw that must balance!\n\n**Visual Prompt:** \"Balance Scale Drawing\"\n```\nLeft side: [x] + [3]\nRight side: [8]\nBoth sides equal weight!\n```\n\n**Solving Simple Equations:**\nThink: \"What number plus 3 equals 8?\"\nAnswer: 5\nSo x = 5\n\n**Check Your Answer:**\nSubstitute back: 5 + 3 = 8 \u2713\n\n**Interactive Activity:** \"Paper Balance Scale\"\nMake balance from paper\nUse coins as weights\nBalance equations physically!"
+    },
+    {
+      "id": "class6-algebra-games",
+      "title": "Algebra Games Playground! \ud83c\udfaa",
+      "content": "**Game 1: Pattern Race**\nBuild these with toothpicks, find the rules:\n1. Triangles: \u25b3 \u25b3\u25b3 \u25b3\u25b3\u25b3 (How many toothpicks?)\n2. Hexagons: \u2b22 \u2b22\u2b22 \u2b22\u2b22\u2b22\n3. Letters: Build A, AA, AAA patterns\n\n**Game 2: Mystery Box Values** \ud83c\udf81\nx + 5 = 12 \u2192 Think: \"What number plus 5 equals 12?\"\nDraw an empty box labeled 'x', then draw what must be inside!\n\n**Game 3: Balance Scale Challenge** \u2696\ufe0f\nCreate a paper balance scale. On left: Draw 2 apples + 1 banana. On right: Draw 5 grapes. If apple = 2, banana = ?\n\n**Game 4: Real-Life Equation Hunt** \ud83d\udd0e\nFind 3 equations in your home:\n1. Kitchen: ______ + ______ = total plates\n2. Bookshelf: Read + Unread = ______\n3. Piggy bank: Coins + Notes = ______"
+    }
+  ]
+}

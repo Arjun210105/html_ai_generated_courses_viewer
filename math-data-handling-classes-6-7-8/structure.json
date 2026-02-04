@@ -2,24 +2,143 @@
   "courseId": "math-data-handling-classes-6-7-8",
   "chapters": [
     {
-      "id": "data-handling-classes-6-7-8",
-      "title": "Data Detectives: The Complete Statistics & Probability Adventure! \ud83d\udcca\ud83c\udfb2\ud83d\udd0d",
+      "id": "data-handling-classes-6",
+      "title": "Data-handling Explorer: Class 6 - Begin Your Journey! \ud83d\udcda\u2728",
       "order": 1,
       "topics": [
         {
-          "id": "class6-data-basics",
-          "title": "Class 6: Data Basics - The Collection & Visualization Wizards! \ud83e\uddd9\u200d\u2640\ufe0f\ud83d\udcc8",
+          "id": "class6-what-is-data",
+          "title": "What is Data? The Information Treasure! \ud83d\udc8e",
           "order": 1
         },
         {
-          "id": "class7-average-probability",
-          "title": "Class 7: Averages & Probability - The Pattern Predictors! \ud83c\udfaf\ud83d\udd2e",
+          "id": "class6-collecting-data-methods",
+          "title": "Collecting Data - The Information Hunt! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
           "order": 2
         },
         {
-          "id": "class8-advanced-data-probability",
-          "title": "Class 8: Advanced Data & Probability - The Statistical Scientists! \ud83d\udd2c\ud83d\udcc8",
+          "id": "class6-organizing-data-tally",
+          "title": "Organizing Data - Tally Marks System! \ud83d\uddc2\ufe0f",
           "order": 3
+        },
+        {
+          "id": "class6-why-visualize-data",
+          "title": "Why Visualize Data? The Picture Story! \ud83d\uddbc\ufe0f",
+          "order": 4
+        },
+        {
+          "id": "class6-pictograph-basics",
+          "title": "Pictograph: The Picture Story Graph! \ud83c\udfa8",
+          "order": 5
+        },
+        {
+          "id": "class6-pictograph-example",
+          "title": "Pictograph Example: Favorite Fruits \ud83c\udf4e\ud83c\udf4c",
+          "order": 6
+        },
+        {
+          "id": "class6-bar-graph-basics",
+          "title": "Bar Graph: The Height Comparison! \ud83d\udcca",
+          "order": 7
+        },
+        {
+          "id": "class6-creating-bar-graph",
+          "title": "Creating a Bar Graph - Step by Step \ud83d\udcd0",
+          "order": 8
+        },
+        {
+          "id": "class6-bar-graph-example",
+          "title": "Bar Graph Example: Books Read \ud83d\udcda",
+          "order": 9
+        },
+        {
+          "id": "class6-reading-graphs",
+          "title": "Reading Graphs: The Detective Skills! \ud83d\udd0d",
+          "order": 10
+        },
+        {
+          "id": "class6-choosing-right-graph",
+          "title": "Choosing the Right Graph: The Tool Selection! \ud83d\udd27",
+          "order": 11
+        }
+      ]
+    },
+    {
+      "id": "data-handling-classes-7",
+      "title": "Data-handling Explorer: Class 7 - Deep Dive into Concepts! \ud83c\udf0a\ud83d\udcca",
+      "order": 2,
+      "topics": [
+        {
+          "id": "class7-mean-average",
+          "title": "Mean: The Fair Share Average! \u2696\ufe0f",
+          "order": 1
+        },
+        {
+          "id": "class7-median-average",
+          "title": "Median: The Middle Child! \ud83d\udc64",
+          "order": 2
+        },
+        {
+          "id": "class7-mode-average",
+          "title": "Mode: The Popular One! \ud83c\udf89",
+          "order": 3
+        },
+        {
+          "id": "class7-choosing-right-average",
+          "title": "Choosing the Right Average: The Situation Guide! \ud83d\uddfa\ufe0f",
+          "order": 4
+        },
+        {
+          "id": "class7-probability-basics",
+          "title": "Probability: The Chance Calculator! \ud83c\udfb2",
+          "order": 5
+        },
+        {
+          "id": "class7-probability-examples",
+          "title": "Probability Examples from Daily Life \ud83d\udcc8",
+          "order": 6
+        },
+        {
+          "id": "class7-double-bar-graphs",
+          "title": "Double Bar Graphs: Side-by-Side Comparison! \u2194\ufe0f",
+          "order": 7
+        }
+      ]
+    },
+    {
+      "id": "data-handling-classes-8",
+      "title": "Data-handling Explorer: Class 8 - Master Level Challenge! \ud83c\udfc6\ud83d\udd37",
+      "order": 3,
+      "topics": [
+        {
+          "id": "class8-grouped-data",
+          "title": "Grouped Frequency Distribution - Smart Summarization! \ud83d\udcca",
+          "order": 1
+        },
+        {
+          "id": "class8-histogram-basics",
+          "title": "Histogram: The Grouped Bar Graph! \ud83d\udcca",
+          "order": 2
+        },
+        {
+          "id": "class8-pie-chart-basics",
+          "title": "Pie Chart: The Circle of Proportions! \ud83e\udd67",
+          "order": 3
+        },
+        {
+          "id": "class8-pie-chart-example",
+          "title": "Pie Chart Example: Favorite Fruit Survey \ud83c\udf4e\ud83c\udf4c\ud83c\udf4a",
+          "order": 4
+        },
+        {
+          "id": "class8-experimental-probability",
+          "title": "Experimental vs Theoretical Probability \ud83d\udd2c",
+          "order": 5
+        },
+        {
+          "id": "class8-probability-scale",
+          "title": "Probability Scale with Precision \ud83d\udd22",
+          "order": 6
         }
       ]
     }

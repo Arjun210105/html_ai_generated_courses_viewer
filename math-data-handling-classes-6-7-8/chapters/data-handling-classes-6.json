@@ -1,0 +1,63 @@
+{
+  "id": "data-handling-classes-6",
+  "title": "Data-handling Explorer: Class 6 - Begin Your Journey! \ud83d\udcda\u2728",
+  "description": "Begin your data-handling adventure! Discover fundamental concepts through fun activities and real-world examples. Perfect for Class 6 students starting their journey.",
+  "practice-quiz": true,
+  "subtopics": [
+    {
+      "id": "class6-what-is-data",
+      "title": "What is Data? The Information Treasure! \ud83d\udc8e",
+      "content": "**Simple Explanation:** Data = Facts & numbers collected about things. Like counting how many students like each ice cream flavor!\n\n**Memory Aid:** \"**D**ata = **D**etails **A**bout **T**hings **A**round!\" \ud83d\udcdd\n\n**Relatable Story:** Imagine planning a class party:\n- Need to know: Favorite snacks? Games? Drinks?\n- Collect information from everyone = COLLECTING DATA!\n- Organize it = MAKING SENSE!\n- Show it = SHARING THE STORY!"
+    },
+    {
+      "id": "class6-collecting-data-methods",
+      "title": "Collecting Data - The Information Hunt! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+      "content": "**Methods:**\n1. **Observation:** Watching and recording (birds in garden)\n2. **Survey:** Asking questions (favorite color poll)\n3. **Measurement:** Using tools (heights of students)\n4. **Experiments:** Testing and recording (plant growth)"
+    },
+    {
+      "id": "class6-organizing-data-tally",
+      "title": "Organizing Data - Tally Marks System! \ud83d\uddc2\ufe0f",
+      "content": "**Step 2: Organizing Data - The Sorting Game!** \ud83d\uddc2\ufe0f\n\n**Tally Marks:** Quick counting system\n```\nIIII  (4)\nIIII II (7 = 5 + 2)\nEvery 5th mark crosses four: ~~IIII~~\n```\n\n**Other Methods:**\n2. **Tables:** Neat rows and columns\n3. **Lists:** Simple but effective"
+    },
+    {
+      "id": "class6-why-visualize-data",
+      "title": "Why Visualize Data? The Picture Story! \ud83d\uddbc\ufe0f",
+      "content": "**Step 3: Representing Data - The Picture Story!** \ud83d\uddbc\ufe0f\n**Why visualize?** Because our brains LOVE pictures!"
+    },
+    {
+      "id": "class6-pictograph-basics",
+      "title": "Pictograph: The Picture Story Graph! \ud83c\udfa8",
+      "content": "**Simple Explanation:** Pictograph = Using pictures/symbols to show data\n\n**Creating a Pictograph - Step by Step:**\n1. **Choose symbol:** One picture = certain number\n   Example: \ud83c\udf4e = 5 apples\n2. **Draw key:** Show what symbol means\n3. **Draw symbols:** Correct number for each category\n4. **Add labels:** What each row shows\n5. **Title:** What the data is about"
+    },
+    {
+      "id": "class6-pictograph-example",
+      "title": "Pictograph Example: Favorite Fruits \ud83c\udf4e\ud83c\udf4c",
+      "content": "**Example: Favorite Fruits in Class**\n```\nFAVORITE FRUITS - CLASS 6A\n(Each \ud83c\udf4e = 2 students)\n\nApples:    \ud83c\udf4e\ud83c\udf4e\ud83c\udf4e\ud83c\udf4e (8 students)\nBananas:   \ud83c\udf4c\ud83c\udf4c\ud83c\udf4c (6 students)\nOranges:   \ud83c\udf4a\ud83c\udf4a\ud83c\udf4a\ud83c\udf4a\ud83c\udf4a (10 students)\nGrapes:    \ud83c\udf47\ud83c\udf47\ud83c\udf47\ud83c\udf47 (8 students)\n```"
+    },
+    {
+      "id": "class6-bar-graph-basics",
+      "title": "Bar Graph: The Height Comparison! \ud83d\udcca",
+      "content": "**Simple Explanation:** Bar graph = Using bars of different heights to compare quantities\n\n**Parts of a Bar Graph:**\n1. **Title:** What the graph shows\n2. **X-axis (Horizontal):** Categories (Fruits, Colors, etc.)\n3. **Y-axis (Vertical):** Numbers/Scale\n4. **Bars:** Rectangles showing amounts\n5. **Labels:** Names for categories\n6. **Scale:** Numbers on Y-axis"
+    },
+    {
+      "id": "class6-creating-bar-graph",
+      "title": "Creating a Bar Graph - Step by Step \ud83d\udcd0",
+      "content": "**Creating a Bar Graph - Step by Step:**\n1. **Draw axes:** X horizontal, Y vertical (L-shaped)\n2. **Choose scale:** Equal intervals on Y-axis\n3. **Label axes:** What each axis shows\n4. **Draw bars:** Equal width, gaps between\n5. **Color code:** Different colors for different bars\n6. **Add title:** Clear description"
+    },
+    {
+      "id": "class6-bar-graph-example",
+      "title": "Bar Graph Example: Books Read \ud83d\udcda",
+      "content": "**Example: Books Read Last Month**\n```\n   10 |       \u2588\n    9 |       \u2588\n    8 |    \u2588  \u2588\n    7 |    \u2588  \u2588\n    6 | \u2588  \u2588  \u2588\n    5 | \u2588  \u2588  \u2588\n    4 | \u2588  \u2588  \u2588\n    3 | \u2588  \u2588  \u2588\n    2 | \u2588  \u2588  \u2588\n    1 | \u2588  \u2588  \u2588\n      --------------\n       Riya Sam Anya\n```"
+    },
+    {
+      "id": "class6-reading-graphs",
+      "title": "Reading Graphs: The Detective Skills! \ud83d\udd0d",
+      "content": "**Questions to Ask:**\n1. **Highest:** Which bar is tallest? = Most\n2. **Lowest:** Which bar is shortest? = Least\n3. **Difference:** How much more/less?\n4. **Total:** Sum of all values\n5. **Comparison:** How do categories compare?"
+    },
+    {
+      "id": "class6-choosing-right-graph",
+      "title": "Choosing the Right Graph: The Tool Selection! \ud83d\udd27",
+      "content": "**When to use Pictograph:**\n- Simple data, small numbers\n- Engaging for children\n- Categories with natural symbols\n\n**When to use Bar Graph:**\n- Comparing many categories\n- Precise numbers needed\n- Professional presentations"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "data-handling-classes-8",
+  "title": "Data-handling Explorer: Class 8 - Master Level Challenge! \ud83c\udfc6\ud83d\udd37",
+  "practice-quiz": true,
+  "description": "Become a data-handling master! Explore advanced concepts and real-world applications. Perfect for Class 8 students preparing for higher-level mathematics.",
+  "subtopics": [
+    {
+      "id": "class8-grouped-data",
+      "title": "Grouped Frequency Distribution - Smart Summarization! \ud83d\udcca",
+      "content": "**Why Group Data?** When we have LOTS of data, grouping helps see patterns!\n\n**Example:** Instead of listing 100 test scores individually, group into ranges:\n0-10, 11-20, 21-30, etc.\n\n**Creating Grouped Frequency Table - Steps:**\n1. **Find Range** = Highest - Lowest\n2. **Decide Number of Groups** (5-10 groups)\n3. **Calculate Class Width** = Range \u00f7 Number of groups\n4. **Create Classes** starting just below minimum\n5. **Tally & Count** values in each class\n6. **Create Table** with Class interval, Tally, Frequency"
+    },
+    {
+      "id": "class8-histogram-basics",
+      "title": "Histogram: The Grouped Bar Graph! \ud83d\udcca",
+      "content": "**Simple Explanation:** Histogram = Bar graph for grouped data\n\n**Key Features:**\n1. **No gaps between bars** (continuous data)\n2. **X-axis:** Class intervals\n3. **Y-axis:** Frequency\n4. **Area of bar** represents frequency\n\n**Example Histogram:**\n```\n   5 |     \u2588\n   4 | \u2588   \u2588   \u2588\n   3 | \u2588   \u2588   \u2588\n   2 | \u2588   \u2588   \u2588\n   1 | \u2588   \u2588   \u2588\n      ------------\n      10-20 20-30 30-40\n```"
+    },
+    {
+      "id": "class8-pie-chart-basics",
+      "title": "Pie Chart: The Circle of Proportions! \ud83e\udd67",
+      "content": "**Simple Explanation:** Pie chart = Circle divided into sectors showing proportions\n\n**Key Features:**\n1. Whole circle = 100% or total\n2. Each sector = category proportion\n3. Angle = (Category value \u00f7 Total) \u00d7 360\u00b0\n\n**Memory Aid:** \"**P**ie chart = **P**roportions in **P**ie pieces!\""
+    },
+    {
+      "id": "class8-pie-chart-example",
+      "title": "Pie Chart Example: Favorite Fruit Survey \ud83c\udf4e\ud83c\udf4c\ud83c\udf4a",
+      "content": "**Example: Favorite Fruit Survey**\nApples: 20, Bananas: 15, Oranges: 10, Grapes: 5\nTotal = 50\n\n**Angles:**\n- Apples: (20/50)\u00d7360 = 144\u00b0\n- Bananas: (15/50)\u00d7360 = 108\u00b0\n- Oranges: (10/50)\u00d7360 = 72\u00b0\n- Grapes: (5/50)\u00d7360 = 36\u00b0\n\n**Check:** 144+108+72+36 = 360\u00b0 \u2713"
+    },
+    {
+      "id": "class8-experimental-probability",
+      "title": "Experimental vs Theoretical Probability \ud83d\udd2c",
+      "content": "**Theoretical Probability:** What SHOULD happen mathematically\nExample: P(heads) = 0.5\n\n**Experimental Probability:** What ACTUALLY happens in experiments\nExample: Toss coin 100 times, get 47 heads \u2192 P(heads) = 0.47\n\n**Formula:** Experimental P = Number of times event occurs \u00f7 Total trials\n\n**Law of Large Numbers:** More trials \u2192 Experimental probability \u2192 Theoretical probability"
+    },
+    {
+      "id": "class8-probability-scale",
+      "title": "Probability Scale with Precision \ud83d\udd22",
+      "content": "**From Impossible to Certain:**\n0 \u2192 0.1 \u2192 0.2 \u2192 0.3 \u2192 0.4 \u2192 0.5 \u2192 0.6 \u2192 0.7 \u2192 0.8 \u2192 0.9 \u2192 1\nImpossible   Unlikely   Even chance   Likely   Certain"
+    }
+  ]
+}

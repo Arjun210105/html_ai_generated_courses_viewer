@@ -2,39 +2,178 @@
   "courseId": "math-algebra-classes-6-7-8",
   "chapters": [
     {
-      "id": "algebra-classes-6-7-8",
-      "title": "Algebra Adventures: From Patterns to Puzzles! \ud83e\udde9\u27a1\ufe0f\ud83d\udcd0",
+      "id": "algebra-classes-6",
+      "title": "Algebra Explorer: Class 6 - Begin Your Journey! \ud83d\udcda\u2728",
       "order": 1,
       "topics": [
         {
-          "id": "class6-algebra-intro",
-          "title": "Class 6: Algebra Awakening: The Pattern Detectives! \ud83d\udd0d",
+          "id": "class6-algebra-introduction",
+          "title": "Algebra Awakening: The Pattern Detectives! \ud83d\udd0d",
           "order": 1
         },
         {
-          "id": "class7-algebraic-expressions",
-          "title": "Class 7: Algebraic Expressions: The Math Sentence Builders! \ud83d\udcdd",
+          "id": "class6-pattern-discovery",
+          "title": "Matchstick Magic: Seeing Patterns in Shapes! \ud83c\udfa8",
           "order": 2
         },
         {
-          "id": "class7-linear-equations",
-          "title": "Class 7: Linear Equations: The Mystery Solvers! \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+          "id": "class6-variables-expressions",
+          "title": "Variables & Simple Expressions",
           "order": 3
         },
         {
-          "id": "class8-algebraic-expressions-identities",
-          "title": "Class 8: Algebraic Expressions & Identities: The Math Magicians! \ud83c\udfa9\u2728",
+          "id": "class6-balance-equations",
+          "title": "Balance & Simple Equations \u2696\ufe0f",
           "order": 4
         },
         {
-          "id": "class8-factorisation",
-          "title": "Class 8: Factorisation: The Reverse Engineering Wizards! \ud83d\udd04",
+          "id": "class6-algebra-games",
+          "title": "Algebra Games Playground! \ud83c\udfaa",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "algebra-classes-7",
+      "title": "Algebra Explorer: Class 7 - Deep Dive into Concepts! \ud83c\udf0a\ud83d\udcca",
+      "order": 2,
+      "topics": [
+        {
+          "id": "class7-algebraic-expressions-basics",
+          "title": "Algebraic Expressions: Math Word Sentences! \ud83d\udd24",
+          "order": 1
+        },
+        {
+          "id": "class7-terms-coefficients",
+          "title": "Terms & Coefficients: Building Blocks \ud83e\uddf1",
+          "order": 2
+        },
+        {
+          "id": "class7-like-unlike-terms",
+          "title": "Like & Unlike Terms: Finding Term Twins! \ud83d\udc6f",
+          "order": 3
+        },
+        {
+          "id": "class7-simplifying-expressions",
+          "title": "Simplifying Expressions: Combining Like Terms",
+          "order": 4
+        },
+        {
+          "id": "class7-expression-games",
+          "title": "Expression Games Carnival! \ud83c\udfa1",
           "order": 5
         },
         {
-          "id": "class8-linear-equations-one-variable",
-          "title": "Class 8: Linear Equations in One Variable: The Ultimate Puzzle Masters! \ud83e\udde0",
+          "id": "class7-linear-equations-basics",
+          "title": "Linear Equations: Balanced Mysteries! \u2696\ufe0f",
           "order": 6
+        },
+        {
+          "id": "class7-solving-equations",
+          "title": "Solving Equations: The Detective Method! \ud83d\udd0d",
+          "order": 7
+        },
+        {
+          "id": "class7-equation-word-problems",
+          "title": "Word Problems: Real-Life Mysteries! \ud83c\udf0d",
+          "order": 8
+        },
+        {
+          "id": "class7-equation-games",
+          "title": "Equation Games Arena! \ud83c\udfdf\ufe0f",
+          "order": 9
+        }
+      ]
+    },
+    {
+      "id": "algebra-classes-8",
+      "title": "Algebra Explorer: Class 8 - Master Level Challenge! \ud83c\udfc6\ud83d\udd37",
+      "order": 3,
+      "topics": [
+        {
+          "id": "class8-multiplying-expressions",
+          "title": "Multiplying Expressions: The Distribution Dance! \ud83d\udc83",
+          "order": 1
+        },
+        {
+          "id": "class8-standard-identities",
+          "title": "Standard Identities: Magic Formulas! \ud83d\udd2e",
+          "order": 2
+        },
+        {
+          "id": "class8-identity-applications",
+          "title": "Identity Applications: Mental Math Magic! \ud83e\udde0",
+          "order": 3
+        },
+        {
+          "id": "class8-factorisation-intro",
+          "title": "Factorisation: Un-multiplying! \ud83d\udd04",
+          "order": 4
+        },
+        {
+          "id": "class8-factorisation-methods",
+          "title": "Factorisation Methods: Detective Toolkit! \ud83d\udee0\ufe0f",
+          "order": 5
+        },
+        {
+          "id": "class8-identity-factorisation",
+          "title": "Factorisation Using Identities",
+          "order": 6
+        },
+        {
+          "id": "class8-splitting-middle-term",
+          "title": "Splitting Middle Term Method",
+          "order": 7
+        },
+        {
+          "id": "class8-factorisation-games",
+          "title": "Factorisation Games Workshop! \ud83d\udd27",
+          "order": 8
+        },
+        {
+          "id": "class8-complex-equations",
+          "title": "Complex Equations: Multi-Step Mysteries! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f",
+          "order": 9
+        },
+        {
+          "id": "class8-equations-with-fractions",
+          "title": "Equations with Fractions: Clear the Denominators! \ud83e\uddf9",
+          "order": 10
+        },
+        {
+          "id": "class8-age-problems",
+          "title": "Age Problems: Time Travel Equations! \u23f0",
+          "order": 11
+        },
+        {
+          "id": "class8-number-problems",
+          "title": "Number Problems: Digit Puzzles! \ud83d\udd22",
+          "order": 12
+        },
+        {
+          "id": "class8-money-speed-problems",
+          "title": "Money & Speed Problems \ud83d\udcb0\ud83d\ude97",
+          "order": 13
+        },
+        {
+          "id": "class8-work-problems",
+          "title": "Work Problems: Teamwork Equations! \ud83d\udc65",
+          "order": 14
+        },
+        {
+          "id": "class8-advanced-equation-games",
+          "title": "Advanced Equation Games Championship! \ud83c\udfc6",
+          "order": 15
+        },
+        {
+          "id": "class8-real-world-algebra",
+          "title": "Real-World Algebra Applications \ud83c\udf0d",
+          "order": 16
+        },
+        {
+          "id": "class8-algebra-memory-techniques",
+          "title": "Algebra Memory Techniques & Songs \ud83c\udfb5",
+          "order": 17
         }
       ]
     }

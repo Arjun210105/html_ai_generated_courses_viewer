@@ -1,0 +1,53 @@
+{
+  "id": "algebra-classes-7",
+  "title": "Algebra Explorer: Class 7 - Deep Dive into Concepts! \ud83c\udf0a\ud83d\udcca",
+  "practice-quiz": true,
+  "description": "Dive deeper into algebra! Master intermediate concepts and explore practical applications. Designed for Class 7 students building on foundations.",
+  "subtopics": [
+    {
+      "id": "class7-algebraic-expressions-basics",
+      "title": "Algebraic Expressions: Math Word Sentences! \ud83d\udd24",
+      "content": "**Simple Explanation:** Expressions are math phrases WITHOUT equals signs. They describe quantities but don't say they equal something specific.\n\n**Memory Aid:** \"**E**xpressions **E**xplain but don't **E**qual!\" \ud83d\udcad\n\n**Relatable Story:** Making friendship bracelets! You need:\n- 3 red beads (3r)\n- 2 blue beads (2b)\n- 1 green bead (g)\nTotal beads expression: 3r + 2b + g\nIt's just the recipe, not how many you'll make! \ud83e\uddf5\n\n**Example Expressions:**\n1. 3x + 2y - 5\n2. 4a\u00b2 + 7b\n3. 2(x + 3)\n\n**Parts of Expressions:**\n- **Terms:** Separate parts (3x, 2y, -5)\n- **Coefficients:** Numbers multiplying variables (3, 2)\n- **Variables:** Letters (x, y)\n- **Constants:** Numbers alone (-5)"
+    },
+    {
+      "id": "class7-terms-coefficients",
+      "title": "Terms & Coefficients: Building Blocks \ud83e\uddf1",
+      "content": "**Terms:** The separate \"chunks\" in expressions, separated by + or - signs.\n\n**Visual Prompt:** \"Term Train\" \ud83d\ude82\nDraw a train where each carriage is a term:\n```\nEngine: [3x] + Carriage1: [2y] - Carriage2: [5] + Carriage3: [7x\u00b2]\nThey're connected but separate! Each can be different!\n```\n\n**Coefficients:** The number multiplying a variable\n\n**Memory Aid:** \"**C**oefficient is **C**lose to the **C**haracter!\" \ud83c\udfad\n\n**Finding Coefficients:**\n- 3x \u2192 coefficient = 3\n- -2y \u2192 coefficient = -2\n- x \u2192 coefficient = 1 (invisible!)\n- -y \u2192 coefficient = -1\n- 5 \u2192 no coefficient (it's a constant)\n\n**Interactive Activity:** \"Invisible Coefficient Hunt\" \ud83d\udd0d\nFind the hidden 1s:\n- x actually means 1x (shy 1!)\n- -y means -1y\n- What about just 'a'?"
+    },
+    {
+      "id": "class7-like-unlike-terms",
+      "title": "Like & Unlike Terms: Finding Term Twins! \ud83d\udc6f",
+      "content": "**Like Terms:** Have EXACTLY the same variable part (same letter, same power)\n\n**Examples of Like Terms:**\n- 3x and 5x (both have x)\n- 2y\u00b2 and 7y\u00b2 (both have y\u00b2)\n- 4xy and 6xy (both have xy)\n\n**Unlike Terms:** Different variable parts\n\n**Examples of Unlike Terms:**\n- 3x and 5y (different letters)\n- 2x and 3x\u00b2 (different powers)\n- 4xy and 4x (different combinations)\n\n**Relatable Analogy:** Like terms are like matching puzzle pieces! Only identical pieces fit together. 3x and 5x fit! 3x and 3y don't! \ud83e\udde9\n\n**Constants:** Numbers without variables\nAll constants are like terms with each other!\nExample: 5, -3, 7, 2 are all like terms\n\n**Interactive Activity:** \"Term Sorting Game\"\nMake cards: 3x, 5y, 2x, 7, 4y, x, 3x\u00b2, 6\nSort into families:\n- x-family (all have just x)\n- y-family (all have just y)\n- x\u00b2-family\n- Number family (no letters)"
+    },
+    {
+      "id": "class7-simplifying-expressions",
+      "title": "Simplifying Expressions: Combining Like Terms",
+      "content": "**Rule:** Only like terms can be combined!\n\n**How to Combine:**\n1. Identify like terms\n2. Add/subtract their coefficients\n3. Keep the variable part same\n\n**Examples:**\n1. 3x + 2x = 5x\n2. 4y - y = 3y (4y - 1y = 3y)\n3. 2a + 3b + a - b = 3a + 2b\n   (2a + a = 3a, 3b - b = 2b)\n4. 5x + 3 + 2x - 1 = 7x + 2\n   (5x+2x=7x, 3-1=2)\n\n**Step-by-Step Method:**\n```\nSimplify: 4x + 3y - 2x + 5\nStep 1: Group like terms: (4x - 2x) + 3y + 5\nStep 2: Combine: 2x + 3y + 5\nStep 3: Cannot combine 2x and 3y (unlike terms)\nFinal: 2x + 3y + 5 \u2713\n```\n\n**Common Mistake Alert:** \u26a0\ufe0f\nDon't combine unlike terms!\n3x + 2y \u2260 5xy \u274c\n3x + 2y stays as 3x + 2y \u2713"
+    },
+    {
+      "id": "class7-expression-games",
+      "title": "Expression Games Carnival! \ud83c\udfa1",
+      "content": "**Game 1: Expression Builder**\nGiven: Chocolates (c), Candies (n), Cookies (k)\nBuild expressions for:\n1. Birthday party: 5c + 3n + 2k\n2. What does 2c + 4n represent?\n3. Create your own party expression!\n\n**Game 2: Coefficient Detective** \ud83d\udd0d\nSome coefficients are hiding! Find them:\n- 7x \u2192 Coeff: 7 (easy!)\n- y \u2192 Coeff: ? (it's hiding!)\n- -3z \u2192 Coeff: -3\n- 5 \u2192 Wait, where's the variable?\n\n**Game 3: Like Term Match**\nColor-match like terms:\n3x with 5x (both red)\n4y\u00b2 with 7y\u00b2 (both blue)\n5 with 2 (both green - constants!)\n\n**Game 4: Simplify Race** \ud83c\udfc3\u200d\u2642\ufe0f\nSimplify these expressions against the clock:\n3x + 2x + 5 = ?\n4y - y + 3 = ?\n2a + 3b + a - b = ?"
+    },
+    {
+      "id": "class7-linear-equations-basics",
+      "title": "Linear Equations: Balanced Mysteries! \u2696\ufe0f",
+      "content": "**Simple Explanation:** Equations are like balanced scales - both sides must be equal! We solve to find the missing weight (variable).\n\n**Memory Aid:** \"**L**inear means **L**ine (power 1), **E**quation means **E**qual portions!\" \ud83d\udcd0\n\n**Relatable Story:** You have some candies. Your friend gives you 3 more. Now you have 8. How many did you start with?\nLet candies = c\nEquation: c + 3 = 8\nThink: \"What plus 3 equals 8?\" That's 5! \ud83c\udf6c\n\n**Key Features:**\n1. Has equals sign (=)\n2. Contains variable (unknown)\n3. Both sides balanced\n4. Solution makes it true\n\n**Examples:**\n- x + 5 = 12\n- 2y = 18\n- 3z - 4 = 11\n\n**Solution:** Value that makes equation true\nFor x + 3 = 8, solution is x = 5\nCheck: 5 + 3 = 8 \u2713"
+    },
+    {
+      "id": "class7-solving-equations",
+      "title": "Solving Equations: The Detective Method! \ud83d\udd0d",
+      "content": "**Simple Method:** Do the OPPOSITE operation to both sides! It's like unwrapping a present. \ud83c\udf81\n\n**Operation Opposites:**\n- Addition \u2194 Subtraction (undo adding)\n- Multiplication \u2194 Division (undo multiplying)\n\n**Visual Prompt:** \"The Equation Unwrapping Machine\"\nDraw a present with layers:\nLayer 1: x + 3 = 8\nLayer 2: Subtract 3 from both sides\nLayer 3: x = 5 (the gift inside!)\n\n**Step-by-Step Examples:**\n**Example 1:** x + 7 = 15\n1. Opposite of +7 is -7\n2. x + 7 - 7 = 15 - 7\n3. x = 8\nCheck: 8 + 7 = 15 \u2713\n\n**Example 2:** 3y = 18\n1. Opposite of \u00d73 is \u00f73\n2. 3y \u00f7 3 = 18 \u00f7 3\n3. y = 6\nCheck: 3\u00d76 = 18 \u2713\n\n**Example 3:** z - 4 = 9\n1. Opposite of -4 is +4\n2. z - 4 + 4 = 9 + 4\n3. z = 13\nCheck: 13 - 4 = 9 \u2713\n\n**Golden Rule:** Whatever you do to one side, do to the other!"
+    },
+    {
+      "id": "class7-equation-word-problems",
+      "title": "Word Problems: Real-Life Mysteries! \ud83c\udf0d",
+      "content": "**Simple Strategy:** RITS-C\n1. **R**ead carefully\n2. **I**dentify the variable\n3. **T**ranslate to equation\n4. **S**olve\n5. **C**heck makes sense!\n\n**Example Problems:**\n\n**Problem 1:** Age Puzzle\n\"I'm twice my dog's age. Together we're 15. How old am I?\"\n1. Let dog's age = d\n2. My age = 2d\n3. Equation: d + 2d = 15\n4. Solve: 3d = 15, d = 5\n5. Dog is 5, I'm 10\nCheck: 5 + 10 = 15 \u2713\n\n**Problem 2:** Game Score\n\"Double my score plus 10 equals 50. What's my score?\" \ud83c\udfae\n1. Let score = s\n2. Equation: 2s + 10 = 50\n3. Solve: 2s = 40, s = 20\n4. Score was 20\nCheck: 2\u00d720 + 10 = 50 \u2713\n\n**Problem 3:** Money Mystery\n\"I have \u20b920. After buying a pen, I have \u20b912 left. Pen cost?\"\n1. Let pen cost = p\n2. Equation: 20 - p = 12\n3. Solve: p = 20 - 12 = 8\n4. Pen costs \u20b98\nCheck: 20 - 8 = 12 \u2713"
+    },
+    {
+      "id": "class7-equation-games",
+      "title": "Equation Games Arena! \ud83c\udfdf\ufe0f",
+      "content": "**Game 1: Balance Scale Race** \u2696\ufe0f\nDraw scales with these:\nLeft: 3 apples\nRight: 6 grapes\nIf apple = 2, grape = ?\n\n**Game 2: Operation Opposite Match**\nMatch:\n+5 \u2194 -5 (undo adding 5)\n\u00d73 \u2194 \u00f73 (undo multiplying by 3)\n\u00b2 \u2194 \u221a (undo squaring)\n\n**Game 3: Word Problem Theater** \ud83c\udfad\nAct out: \"I have some marbles. I lose 4, have 6 left. How many?\"\nWrite equation, solve, check with real marbles!\n\n**Game 4: Equation Puzzle Pieces** \ud83e\udde9\nMake cards:\nNumber cards: 3, 5, 7, 10\nVariable cards: x, y\nOperation cards: +, -, =\nCreate valid equations, solve!\n\n**Game 5: Checking Champion** \u2705\nAlways check!\nx + 4 = 9 \u2192 x = 5\nCheck: 5 + 4 = 9 \u2713\nNow check these:\ny - 3 = 4 \u2192 y = 7 \u2713?\n2z = 10 \u2192 z = 5 \u2713?"
+    }
+  ]
+}

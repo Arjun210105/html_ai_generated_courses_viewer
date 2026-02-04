@@ -1,0 +1,43 @@
+{
+  "id": "data-handling-classes-7",
+  "title": "Data-handling Explorer: Class 7 - Deep Dive into Concepts! \ud83c\udf0a\ud83d\udcca",
+  "practice-quiz": true,
+  "description": "Dive deeper into data-handling! Master intermediate concepts and explore practical applications. Designed for Class 7 students building on foundations.",
+  "subtopics": [
+    {
+      "id": "class7-mean-average",
+      "title": "Mean: The Fair Share Average! \u2696\ufe0f",
+      "content": "**Simple Explanation:** Mean = Total shared equally among all\n\n**Calculation:** Mean = Sum of all values \u00f7 Number of values\n\n**Memory Aid:** \"**M**ean = **M**ake **E**verything **A**lmost **N**ormal!\"\n\n**Real Story:** 5 friends have marbles: 3, 5, 7, 4, 6\nTotal marbles = 25\nIf shared equally: 25 \u00f7 5 = 5 each\nMEAN = 5 marbles"
+    },
+    {
+      "id": "class7-median-average",
+      "title": "Median: The Middle Child! \ud83d\udc64",
+      "content": "**Simple Explanation:** Median = Middle value when data is sorted\n\n**Calculation Steps:**\n1. Arrange data in ascending order\n2. Find middle position\n3. If odd count: Middle value\n4. If even count: Average of two middle values\n\n**Memory Aid:** \"**M**edian = **M**iddle of the **M**otorway!\" \ud83d\udee3\ufe0f\n\n**Example:** Test scores: 78, 85, 92, 65, 88\n1. Sort: 65, 78, 85, 88, 92\n2. Middle (3rd): 85\nMEDIAN = 85"
+    },
+    {
+      "id": "class7-mode-average",
+      "title": "Mode: The Popular One! \ud83c\udf89",
+      "content": "**Simple Explanation:** Mode = Value that appears MOST often\n\n**Calculation:** Count frequency of each value\nMode = Value with highest frequency\n\n**Memory Aid:** \"**M**ode = **M**ost **O**ften **D**isplayed **E**lement!\"\n\n**Example:** Shoe sizes: 6, 7, 6, 8, 7, 6, 9, 6\nCounts: 6 appears 4 times (most!)\nMODE = 6\n\n**Special Cases:**\n- **No mode:** All values different\n- **Bimodal:** Two values tie for most frequent\n- **Multimodal:** More than two modes"
+    },
+    {
+      "id": "class7-choosing-right-average",
+      "title": "Choosing the Right Average: The Situation Guide! \ud83d\uddfa\ufe0f",
+      "content": "**When to use MEAN:**\n- Data has no extreme values\n- Need mathematical operations\n- Example: Average temperature\n\n**When to use MEDIAN:**\n- Data has extreme values (outliers)\n- Want to ignore extremes\n- Example: House prices, salaries\n\n**When to use MODE:**\n- Looking for most common\n- Categorical data\n- Example: Most popular color"
+    },
+    {
+      "id": "class7-probability-basics",
+      "title": "Probability: The Chance Calculator! \ud83c\udfb2",
+      "content": "**Simple Explanation:** Probability = How likely something is to happen\n\n**Scale:** 0 (impossible) to 1 (certain) or 0% to 100%\n\n**Basic Probability Formula:**\nP(event) = Number of favorable outcomes \u00f7 Total possible outcomes\n\n**Memory Aid:** \"**P**robability = **P**ossible favorable \u00f7 **P**ossible total!\""
+    },
+    {
+      "id": "class7-probability-examples",
+      "title": "Probability Examples from Daily Life \ud83d\udcc8",
+      "content": "**Probability Examples from Daily Life:**\n1. **Tossing a coin:**\n   P(Heads) = 1 \u00f7 2 = 0.5 or 50%\n   \n2. **Rolling a die:**\n   P(6) = 1 \u00f7 6 \u2248 0.167 or 16.7%\n   \n3. **Drawing from deck:**\n   P(Heart) = 13 \u00f7 52 = 0.25 or 25%\n\n**Probability Terms:**\n1. **Certain:** Will definitely happen (P=1)\n2. **Likely:** Probably will happen (P>0.5)\n3. **Even chance:** 50-50 (P=0.5)\n4. **Unlikely:** Probably won't happen (P<0.5)\n5. **Impossible:** Cannot happen (P=0)"
+    },
+    {
+      "id": "class7-double-bar-graphs",
+      "title": "Double Bar Graphs: Side-by-Side Comparison! \u2194\ufe0f",
+      "content": "**Purpose:** Compare two sets of data for same categories\n\n**Example:** Boys vs Girls preferences\n```\n         BOYS vs GIRLS - FAVORITE SUBJECT\nMath:    \u2588\u2588\u2588\u2588 (Boys)   \u2588\u2588 (Girls)\nScience: \u2588\u2588\u2588\u2588\u2588         \u2588\u2588\u2588\nEnglish: \u2588             \u2588\u2588\u2588\u2588\u2588\nArt:     \u2588\u2588            \u2588\u2588\u2588\u2588\n```"
+    }
+  ]
+}
